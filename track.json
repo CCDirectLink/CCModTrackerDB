@@ -1,0 +1,181 @@
+[{
+        "Owner": "CCDirectLink",
+        "Name": "AMCS-wdeps"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "CCLoader",
+        "recursive": true
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "CCPresetRevival"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "CC-ChargedBalls"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "CCdiscord"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "kitplayer"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "CCNewGamePP"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "CCRestartButton"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "Blades"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "extendable-severed-heads"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "hardcoded-config-injector"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "item-api"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "CCJetpack"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "map-watch"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "menu-api"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "cc-menu-ui-replacement"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "mod-require-fix"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "CCSlowmotion"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "CCTimer"
+    },
+    {
+        "Owner": "CCDirectLink",
+        "Name": "CCTimeWalker"
+    },
+    {
+        "Owner": "L-Sherry",
+        "Name": "Bob-Rank"
+    },
+    {
+        "Owner": "L-Sherry",
+        "Name": "French-CC"
+    },
+    {
+        "Owner": "L-Sherry",
+        "Name": "Localize-me"
+    },
+    {
+        "Owner": "tylercamp",
+        "Name": "CCJoystickExt"
+    },
+    {
+        "Owner": "keanuplayz",
+        "Name": "CCRandomEvents"
+    },
+    {
+        "Owner": "keanuplayz",
+        "Name": "LeaTriblader"
+    },
+    {
+        "Owner": "EL20202",
+        "Name": "cc-capped-stats"
+    },
+    {
+        "Owner": "EL20202",
+        "Name": "cc-c-edition"
+    },
+    {
+        "Owner": "EL20202",
+        "Name": "cc-uncapped-stats"
+    },
+    {
+        "Owner": "prismskey",
+        "Name": "CharSwap"
+    },
+    {
+        "Owner": "ZeikJT",
+        "Name": "CrossCodeCheats"
+    },
+    {
+        "Owner": "sgrunt",
+        "Name": "cc-element-boss"
+    },
+    {
+        "Owner": "sgrunt",
+        "Name": "qine"
+    },
+    {
+        "Owner": "ubergeek77",
+        "Name": "CCExtraGamepadOptions"
+    },
+    {
+        "Owner": "Swanderrr",
+        "Name": "CCleasitstitle"
+    },
+    {
+        "Owner": "rioreur",
+        "Name": "palicat"
+    },
+    {
+        "Owner": "Paradragon",
+        "Name": "cc-extra-dialogue"
+    },
+    {
+        "Owner": "dmitmel",
+        "Name": "crosscode-tweak-pack"
+    },
+    {
+        "Owner": "dmitmel",
+        "Name": "crosscode-readable-saves"
+    },
+    {
+        "Owner": "dmitmel",
+        "Name": "cc-world-map-overhaul"
+    },
+    {
+        "Owner": "Naxane",
+        "Name": "CCInventorySearch"
+    },
+    {
+        "Owner": "Inevitabilis",
+        "Name": "CC-Junolea"
+    },
+    {
+        "Owner": "Pyrocorvid",
+        "Name": "CCNineRooms"
+    },
+    {
+        "Owner": "WatDuhHekBro",
+        "Name": "cc-uwuifier"
+    }, {
+    	"Owner": "Hsifnus",
+	"Name": "autumns-genesis"
+    }
+]
