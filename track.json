@@ -4,10 +4,6 @@
     },
     {
         "Owner": "CCDirectLink",
-        "Name": "AMCS-wdeps"
-    },
-    {
-        "Owner": "CCDirectLink",
         "Name": "CCLoader",
         "recursive": true
     },
