@@ -15209,4 +15209,214 @@
             "version": "0.1.0"
         }]
     }
+}, {
+    "owner": "XenonA7",
+    "repo": "xenons-triblader-mod",
+    "manifests_by_commit": {
+        "0649083ea16abbe55a2d64b1964adfe86b1a9a76": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.10"
+        }],
+        "07e372a4478e1903040a43f6521249d2eecd3c67": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.5"
+        }],
+        "0c0011e080b8f175dacfd2a28f63efa0c63c3832": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.6"
+        }],
+        "0cbc1dae33fad314f0ef09b481232ec37d3e76bd": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.6"
+        }],
+        "14ecce3640c6c59dc3849d69b5a782f0b3645de4": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.1.1"
+        }],
+        "189e5a969bf543d07c5c5072a517326ed9bdb0d8": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.1.0"
+        }],
+        "1f1b099394916d385931df868964e1f4666179f4": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.1.0"
+        }],
+        "2cde1ac8043b226899ae61b1a616aed4310f23ba": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.6"
+        }],
+        "2cf7ee2360f03eb0c861f6fcb6ff1b88e3fb8a36": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.1.1"
+        }],
+        "36c2a642f758ddf5bd71a499ca6740590c6f12a9": [],
+        "3a7bedf26e16c4b735dc65935895ca308705dfc3": [],
+        "3e803f590ef14ad95f185b3ebfdec2c450a093c3": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.18"
+        }],
+        "46c26c830ac6449d9a7807d02448c5acaaefc305": [],
+        "4dd61d8fc10efd5618f48c3a0b11308a97fa9bd8": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.5"
+        }],
+        "52d9b96a7b4141fb242ba98b48fa0d25b776843e": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.1.3"
+        }],
+        "603267ba9334c773c84312aac389f095032f1a55": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.12"
+        }],
+        "62baafdea437147378094b59be03ae6eb43aece1": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.2"
+        }],
+        "65baf75e6ce7b2e5c792d64973f4b49e0787785f": [],
+        "6d929990584898a201673f43834ca3ff926d1734": [],
+        "707ef28ee55bf589faf3c292773acc02790ff3c2": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.1.0"
+        }],
+        "7aa35e10244528f00c18e81d31b0a606487888fb": [],
+        "7e06007c790d4011b6ab83e8bcbf8f53103899a9": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.16"
+        }],
+        "85a0e36a7c174d9e0dd4483964f3a0aaa29a6796": [],
+        "8601521f0603ffda8f2c248fa9cf2caccd5f0e38": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.14"
+        }],
+        "86062a2e9093f75c9b28021791af535b3ba405e6": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.18"
+        }],
+        "8b378dffaa068826138d853d7726e1ed38ccc6f6": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.4"
+        }],
+        "8bb55c3c9e32943079e71a572f27808eb351361a": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.18"
+        }],
+        "8c17d698863607ea9371c0953397852514560006": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.2"
+        }],
+        "8d372560df873779bcb7c1f9f7f1b272b2cf078c": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.6"
+        }],
+        "9008acbfc32764498c341259cb67480cb3fadc88": [],
+        "961ee0d2b978ab52dc9ee7571571f336503c1bb4": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.17"
+        }],
+        "97c66d79178bf75019df432cece39d877270d1f8": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.15"
+        }],
+        "a9675dd8bb9fd067ad89653fb6d15fb22fdc59a7": [],
+        "aa1fa6a02ec8348a1766d70e71641c420658c4c7": [],
+        "accf79be7dc6b45722b7232b6c728c11c0b1ec38": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.9"
+        }],
+        "b3d0c1a6ab0f6047a9cc8f88c1492e2ec8224938": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.6"
+        }],
+        "b7cb972a004337e58277ba66bb5c9c7959f97914": [],
+        "bf337613651ea862688180022f4c972abbbee51d": [],
+        "c3f683e3b66920e304f6182be3397a35a218318a": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.8"
+        }],
+        "c7d0780d73ceb23e32529c8967d1f8dfcb9b6c54": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.6"
+        }],
+        "c9f95666bd05f3d5ce7d680832667ed358992558": [],
+        "ca6a4b7bc4047652b610e99c89d25d58fc802124": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.6"
+        }],
+        "cc344daaadc426cc33176f490c894cd37d8f9234": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.11"
+        }],
+        "cd9b37a78add61a2c52593743ae4bfc69bbcbb62": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.1.1"
+        }],
+        "d1fd7cfadefc3ab59dfe32b1e364fbfdb916ea9a": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.18"
+        }],
+        "d7708c2682de471c94d249a76a9ad6941334bc5a": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.1.2"
+        }],
+        "dd5f0b604e456d22691d1ab955c8b6f17c640d0c": [],
+        "de22bef13b1beb762f9f0a4814c236e8cf9a8c5e": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.12"
+        }],
+        "e034f2474d0992b8aa91f4dda9b0c9d4e582ba7e": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.1"
+        }],
+        "e53e7614d9999e43512f553455f4cc0f0ff8c290": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.18"
+        }],
+        "ee7aec4c5aebad334720ec554f123cc5e0d326d3": [],
+        "f576a60257bd30cfae1e707c48ccec1b96bd2106": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.18"
+        }],
+        "f5c751fc051cc5c4e5bf88e4874b3ca6c332e11d": [{
+            "path": "ccmod.json",
+            "id": "xenons-triblader-mod",
+            "version": "0.0.6"
+        }]
+    }
 }]
