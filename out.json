@@ -15877,4 +15877,80 @@
             "version": "1.0.0"
         }]
     }
+}, {
+    "owner": "CCDirectLink",
+    "repo": "char-select",
+    "manifests_by_commit": {
+        "0d6b41e77246c3ed30611865e2c24e1624e4e0c2": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "1.0.0"
+        }],
+        "1a3195c68e23ad65a8550891bebf0248130ffdf6": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "1.0.0"
+        }],
+        "25586e096041e9569445dc876cd52b231f64f778": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "1.0.0"
+        }],
+        "335b920c27bd154836698ae32134506d1463846c": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "0.0.1"
+        }],
+        "38580717184ee4bfc158562684b3419acf7fceba": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "0.0.1"
+        }],
+        "38d9148124a8977cae16a7255c6fab2036afb45c": [{
+            "path": "src/ccmod.json",
+            "id": "char-select",
+            "version": "1.0.0"
+        }],
+        "805db6da6dce96f23a0da6d9dc7a7b3a98bf5651": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "0.0.1"
+        }],
+        "a65302f4ab046973a7daa8d5e9948bee1c80d4d8": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "0.0.1"
+        }],
+        "bf7b95484b3da629abb9d0d447818efb78be6817": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "0.0.1"
+        }],
+        "ce06f339cd7e89ecd803592edead03449bc9d87a": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "0.0.1"
+        }],
+        "ce574871acf47748d227f3548ac0fbca6009b165": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "0.0.1"
+        }],
+        "e1c7cdd6771ab25a9b0a8fd5e85dcf46f5d9e90d": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "1.0.0"
+        }],
+        "f1288353cc9639ca5e4786efed9617db9844de2a": [{
+            "path": "src/ccmod.json",
+            "id": "char-select",
+            "version": "1.0.0"
+        }],
+        "f931b3b387d62f3e8eb36abf156b5c3f2f43e044": [],
+        "fec1d1b3df4aaef4c8484ac253b389be4b5983bb": [{
+            "path": "src/ccmod.json",
+            "id": "cc-char-select",
+            "version": "0.0.1"
+        }]
+    }
 }]
