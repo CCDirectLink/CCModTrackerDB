@@ -15419,4 +15419,447 @@
             "version": "0.0.6"
         }]
     }
+}, {
+    "owner": "2hh8899",
+    "repo": "ArcaneLab",
+    "manifests_by_commit": {
+        "01b5b8addd962ff1e81081bc44fbe1b5a37414f5": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "045f4a4f1c2bccd3ace1f2ed88e5e9b0050615c0": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "048aa1d865be03e735b7262159688ccda0fbb806": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.3"
+        }],
+        "06d584ac6b040847031fce9df08676f92f302d6f": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.1"
+        }],
+        "07bb520fcd6bc51ea27d2f6a8cdd71c321f7dc03": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "088b9ac9cd18b4320e8c1cda4308cc1c3e16054b": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "091254933c50235aec359db5cc7d53272fbd28c5": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "0bca57b28c4a1f2eeceb8f856b83c0158be9588b": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.7"
+        }],
+        "0d23a78f6db413709f6f223b782b98468712b69d": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "0eabf8ebaac1e298a2240a9e8f46924b49807385": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "13087330d8db850f9d9ef3071fa91180154117a9": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.0"
+        }],
+        "16b2c8c2e934552871e166e63ae168ea0ef29bc0": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "176dde7bbc694d52dcbdd6f56c0cca3c257f77ad": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "192a1464082ce6081bec190b0e7df3495c88bc58": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "1b5c3f57fa64589ccd5b48579353f233b39e26de": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "1d0f5a178dcd7ca96b5157b6592bd0a4d928b3e0": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "1d1d931893bb9edec7687a429b0361742ab316c3": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "1efce38549da60c4084351f5e2df5f8de48867ae": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "1f1a938363c6927c68bde5180089452e2b37bae5": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "2053ebc523c22707887f557162677cb0da374b74": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "20bfb4d40c94d8d99df1b54e5d17379c58a48955": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "2712d979fd8593a0a8d2f5211749b436e71b511f": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "295910eae162c1c4d9d18f4475fb55f719edc5da": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "29923c8617d61fce33eee3d11596b02670fcd76b": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.4"
+        }],
+        "2b081c44c0eede5cc637558aaf3c60848b054b61": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "2d62c972252fa89f6113d2438cd82b90d7972e6e": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "2f5d7c41502aa86d4f207d4a6a3ec2034ed1508f": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.1"
+        }],
+        "32eb31d0556ce7d32814699d71b226061d62d372": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "33887ba27a5f0e526552f1fffb105e41bf08e5ee": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "3397cb7cfa3a8d688e7f1c2ef29cc95e6ac80df5": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "35493e191e490dde28ceb18b7ecf8928bbcd566c": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "38f5645aa1d1d2ec495ff4a966ed5b29fc1ff96f": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "42cbc527dd69390282d2b24192729f2af31f37ab": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.7"
+        }],
+        "453c23cd9053351d47f1eecad417c1cdbb947fa3": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.7"
+        }],
+        "478a873871acd5d10c73973cd0b025b083b656b7": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "4b616b505a0d98c1cf7bee6a614c6f8205cef617": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "5529403492901193f20cf8307362abba6ed9d99e": [],
+        "59b2507294b378ac94e5c80cd017bb9f1ef0a9dd": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "6b5db55a2da221d9cff32b0f9c119a34b80bced1": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "710a67dc368f3d97d54326596b87dd33b75e04c4": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.3"
+        }],
+        "7144dfe24a96d63eb4feddd0f924ef29cd6981d8": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.0"
+        }],
+        "75c60334a03c94cfdace6b76038b5e1a4323cba0": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "76cfbd6561c9c9cad93a0c0efac8d23339c39bdb": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "79ece2b2f4ea64a2f240839db40da26cb5f4cd1f": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "7e7b9c19cdba5d8e9feb00a818fa481a8c4b88fa": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "7edf2e6823acbb35422885c35b67c8ce3e144324": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.6"
+        }],
+        "826e80c12a6edbe6132059cd7fad8d2f429db4f6": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "89f2aaef45df41794251102b0fc8143488daf6d8": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "8b1667a5388f135b3a54872bb4d7b9f9bf8da4dc": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "8d82e2b8b23dc89a075f17e6b0dd063296aa2ccf": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "90b795e636e511c3dacef919948f9a21f6b8b96d": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.0"
+        }],
+        "9126f9246117f186233046b329e2ad3d868eb98f": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "92a63b5e87081929cd6f8600a64264fd282dbe9c": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "95cefe4181b506a9accbd500c02b66cab6e602c0": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "998bbfc1f1b5703550fa19bb7e234c2a9bcb0376": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "9a01352b98cda3ff946a3bd2518da7d90f61f8f0": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "9ded604a4484991aee974da79bcc8c97dd2fd113": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "a3a3c1c67731f205514945268da04e50aa3205a4": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "a9867a8cd53587366beda6c8138e1b42b096d08f": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "a9e1f1e16c06d5a58bdb303a652cb9f9caffe765": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "aa72eb4cb645942f8dc3b9b3b4b0efa91fcdff8d": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "ad1940c5d24913d9a7478fb8bea05d997bf83209": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "add93b22953fb5624efda2e935d30ba6047d600d": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "b45e86f33bfd55bd61d80349cd59619273830004": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "b515539c3f6f6bae3b78f24d401b00e095ceebe3": [],
+        "ba96b33d3c4393d4d36fe3a0cb3998393e0d7b9e": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.1"
+        }],
+        "bb4b19396ab5d6447ffa7e8dc86ff6647aeae887": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "bfd77de6d2d439555d0540d6e29afa72efa5823f": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "c15b6529daa4823c98abed9a1d901ebcee63accb": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "c17f5f02d13fd77cdd92d553984625c3160d8ba8": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.1"
+        }],
+        "c5aead6fd7ef4070d90a08b3a189b9c0c5841936": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "c832091d3f815c745998ae4659c2e9979512333b": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "d14b768e23894a78d2e05919c8c0787be07c8abc": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "d25c45d5fd0108846d96d9e9ee1dae83bc98be39": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "d3d14622a41da660facebeccc25dad4a476dfb5a": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.5"
+        }],
+        "d66ecbb72403c038bc156000631f299cb225c15d": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "d9ebb100f1c1c8dc3d67b63156effeecd9848ee7": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.3"
+        }],
+        "db176ac3f5ee577eea7ed928e7fc2d09f0230c56": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "df0dde4b5090f52ab749476eaefca7c84ddc89e5": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "e855b24b6944a9b2db388b349bb6dbab38128759": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "ed3de07cabb12d859b13dbca2f8894eaa302bd4c": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "ed50703e98072da073696f10f9671f49f40da63a": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "edbc275224b7c84c50d475e466c25e0f7b5f3957": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "efa3ad835a1069eb4109f98d2146f8a1739d90b7": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.7"
+        }],
+        "f03a46a3f511bcec134237b451653aea05674b6d": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "f11653da13626b45e39793817d81510be8e1e184": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "f53a0a7276a6fac58b454cf43eaab41cfc5e50cd": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.4"
+        }],
+        "f7cfb05104f27086704c298b9a819455904b19ba": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "f9ac97cfa00c4fc55f1c287adb013d319f6737af": [],
+        "f9b8b78c903208d39108533bf4d21c7621f85c05": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.3"
+        }]
+    }
 }]
