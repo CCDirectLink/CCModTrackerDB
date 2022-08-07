@@ -1,6 +1,10 @@
 [{
     "owner": "CCDirectLink",
     "repo": "AMCS-wdeps",
+    "branches": {
+        "master": "72d9de29883dbe86ec496a03eedceb0a209b6fb5",
+        "new-and-not-working-as-intended-branch": "3d48941ca46b6fd57c9d4d1f2e6ac7bf48867819"
+    },
     "manifests_by_commit": {
         "02032267cd78342a92876963e0812d29a9b9da2a": [],
         "040d838a009faa8ccb1443a85a2aa6f1790b8a5b": [{
@@ -132,6 +136,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCLoader",
+    "branches": {
+        "master": "a56064b2a240792632379c6c9e591bb81905a932"
+    },
     "manifests_by_commit": {
         "001bfbb2ac5a11be3576075b1bea682989e33da0": [{
             "path": "package.json",
@@ -5858,6 +5865,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCPresetRevival",
+    "branches": {
+        "master": "71d06232e3b2193f87b72e221f506c4cc6aabd06"
+    },
     "manifests_by_commit": {
         "081ba1d43142f76ef0b78615f8a231e2006954aa": [{
             "path": "package.json",
@@ -5940,6 +5950,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CC-ChargedBalls",
+    "branches": {
+        "master": "de0fac614d1ac00b5cc8f43b77ff966969e7b52c"
+    },
     "manifests_by_commit": {
         "78bf3dd4aa454bd84901a0db4f4a92db3bfcf973": [],
         "883b9dbe8c1a49836feb94ca6fe4feecc9a61bc9": [{
@@ -5961,6 +5974,10 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCdiscord",
+    "branches": {
+        "dependabot/npm_and_yarn/node-fetch-2.6.7": "d5f22a53ce681da246fc41edc44b22035c497fb5",
+        "master": "92ee5fac3962205da7ca56bc09c406469ddf7b5c"
+    },
     "manifests_by_commit": {
         "043a17447cd99fc0bc178107e7cc56846faa7021": [],
         "08d7a55a577eba2c017dea6b5311af68f08d3a4c": [{
@@ -6054,6 +6071,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "kitplayer",
+    "branches": {
+        "master": "9605dd060661e0b2b3ee949ccf7393a25f691f88"
+    },
     "manifests_by_commit": {
         "0941f6d0d1a9f37d522056e546219b2110c0026c": [{
             "path": "kitplayer/package.json",
@@ -6094,6 +6114,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCNewGamePP",
+    "branches": {
+        "master": "b4da3d898dd6ea01c5af9c80b46d695045df064d"
+    },
     "manifests_by_commit": {
         "100d72ae8aef22f837eec880a76f2cdabab0701c": [{
             "path": "package.json",
@@ -6194,6 +6217,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCRestartButton",
+    "branches": {
+        "master": "5a21cfc280a0827f8d9e5da0b4b4fa8071a4f4f4"
+    },
     "manifests_by_commit": {
         "0bff65c059e84afa97866821b6d9434833a80345": [{
             "path": "package.json",
@@ -6285,6 +6311,10 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "Blades",
+    "branches": {
+        "add-license-1": "cb1211507d0ac51380112ababa096fc2ac30ccbf",
+        "master": "cd3675ca7c14df1e728e95aa5e3bb58976fa36b0"
+    },
     "manifests_by_commit": {
         "42d1b7dfe769dce63fa96884047b45c122f1c4b1": [],
         "9e1fffc1b95cda928a79fe189e32a3140cc3a0b6": [],
@@ -6303,6 +6333,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "extendable-severed-heads",
+    "branches": {
+        "master": "9603504f57f123fbe06053eca0c9ec291b53173b"
+    },
     "manifests_by_commit": {
         "201f4aebc4dc036838fe4d449e7e09703627c4e1": [{
             "path": "package.json",
@@ -6339,6 +6372,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "hardcoded-config-injector",
+    "branches": {
+        "master": "4885a11e41668ebb28fdccd1e9a0ac124b1d092e"
+    },
     "manifests_by_commit": {
         "1647cdf09f9f9b4743a534c8c72ecb52641964fa": [{
             "path": "package.json",
@@ -6395,6 +6431,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "item-api",
+    "branches": {
+        "master": "3add3cc4059fd16d4a29e224e1cdcf5fc52cfed3"
+    },
     "manifests_by_commit": {
         "00c647fb0c0332eaca3c832dbffe310c16e46afd": [{
             "path": "package.json",
@@ -6561,6 +6600,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCJetpack",
+    "branches": {
+        "master": "a87457af288a7963ee2ccddabd287e50e3cb4641"
+    },
     "manifests_by_commit": {
         "1ca841443d3ad968f4649bf16961752b2c65960f": [{
             "path": "package.json",
@@ -6623,6 +6665,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "map-watch",
+    "branches": {
+        "master": "cb66bbada0573d79623c7d988142f988c39a4f5e"
+    },
     "manifests_by_commit": {
         "823c262afa56ff43251df7edfd0b3064733a736d": [{
             "path": "package.json",
@@ -6648,6 +6693,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "menu-api",
+    "branches": {
+        "master": "8ffb89bb7d1d2acd3d2801a640b7e0110bbd2001"
+    },
     "manifests_by_commit": {
         "0432223739068babf852b68e364f04370b746ecc": [],
         "8ffb89bb7d1d2acd3d2801a640b7e0110bbd2001": [{
@@ -6659,6 +6707,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "cc-menu-ui-replacement",
+    "branches": {
+        "master": "e180dac89f0ba3418e78d5706eb63e823cc98a35"
+    },
     "manifests_by_commit": {
         "0ffb8442d81a3b23b5f9cfa4a149160ca4b5fc38": [{
             "path": "cc-menu-ui-replacement/package.json",
@@ -6825,6 +6876,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "mod-require-fix",
+    "branches": {
+        "master": "1864ba25a8c45c0b626c3d18b2c9ce93fd62db0a"
+    },
     "manifests_by_commit": {
         "037dd1d09fcdf08364b2b60f85da2c70f9ca1030": [],
         "1864ba25a8c45c0b626c3d18b2c9ce93fd62db0a": [{
@@ -6853,6 +6907,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCSlowmotion",
+    "branches": {
+        "master": "e7d696a7af389cbe38e6250d7ba4786d9b2ce20c"
+    },
     "manifests_by_commit": {
         "05c85faeb10333a82a0b7d77068b25cfa7a930c2": [{
             "path": "package.json",
@@ -6895,6 +6952,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCTimer",
+    "branches": {
+        "master": "40ae9eac7e58cb5e5167b0656592cf2acd6f52e4"
+    },
     "manifests_by_commit": {
         "08443a377b76a714f28356c904b99e6fed5c042a": [{
             "path": "timer/package.json",
@@ -7072,6 +7132,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCTimeWalker",
+    "branches": {
+        "master": "d2e33b8feb6c4ae67b42ba1fd91127a4d3b939cd"
+    },
     "manifests_by_commit": {
         "1e75218e39311a1a050560914f2dfb9c33d76417": [],
         "3379d152e6f78571cc0db7f0f6956dc9ba99676f": [],
@@ -7097,6 +7160,9 @@
 }, {
     "owner": "L-Sherry",
     "repo": "Bob-Rank",
+    "branches": {
+        "main": "120e7eab2e891771408632d3eea422635936f740"
+    },
     "manifests_by_commit": {
         "0024a40a1f344603492e48316c04634b333b03dc": [{
             "path": "package.json",
@@ -7909,6 +7975,9 @@
 }, {
     "owner": "L-Sherry",
     "repo": "French-CC",
+    "branches": {
+        "master": "a8d720a7e85fc0837d52c783577c5eec79671051"
+    },
     "manifests_by_commit": {
         "00c5682c20c87fd1bece0e523fd3ff5fe93f0c8b": [{
             "path": "ccmod.json",
@@ -9484,6 +9553,10 @@
 }, {
     "owner": "L-Sherry",
     "repo": "Localize-me",
+    "branches": {
+        "master": "9d0ff32abde457997ff58c35f20864d37ac8b2bf",
+        "v1.x": "cd84932c815297c6777fafcf4e5fcfbc0d3d6cc3"
+    },
     "manifests_by_commit": {
         "074c931775875166ccb2d26f600f1ebeb9c0809e": [{
             "path": "package.json",
@@ -9916,6 +9989,9 @@
 }, {
     "owner": "tylercamp",
     "repo": "CCJoystickExt",
+    "branches": {
+        "master": "1efdd55e4982d3af6379d3a3a8f8f0b5a58cd737"
+    },
     "manifests_by_commit": {
         "1efdd55e4982d3af6379d3a3a8f8f0b5a58cd737": [{
             "path": "package.json",
@@ -9936,6 +10012,13 @@
 }, {
     "owner": "keanuplayz",
     "repo": "CCRandomEvents",
+    "branches": {
+        "dev": "b90d882dee8f79ce5e2e98eebba54a20f9340f90",
+        "images": "1e5129b8004f16bcfa9cdca9ed1bcbc324ba3f61",
+        "master": "515166ee5397a080f10968aeeec2744b508bc726",
+        "patch-fixes": "e3b89748d74e3dc9ca9bf3b6e9d3ab8ce8c60c4b",
+        "renovate/configure": "9a20fbb41987edc1a68299b4ea5e990d89d23bb7"
+    },
     "manifests_by_commit": {
         "0bfb770f4cf3417e6fb3bad5bcd3ae9ebf988e55": [{
             "path": "package.json",
@@ -10236,6 +10319,9 @@
 }, {
     "owner": "keanuplayz",
     "repo": "LeaTriblader",
+    "branches": {
+        "master": "e167413f6c7748691a40e4748fe352888ad5d5af"
+    },
     "manifests_by_commit": {
         "1343c4d66c2ba6940d4e362739846ad06e7254ba": [{
             "path": "package.json",
@@ -10262,6 +10348,9 @@
 }, {
     "owner": "EL20202",
     "repo": "cc-capped-stats",
+    "branches": {
+        "master": "c1366e366b59623434e8cf4acd35e3e767344c03"
+    },
     "manifests_by_commit": {
         "4f82b27a22b8bac257e475b92adea022dd1101bd": [{
             "path": "package.json",
@@ -10292,6 +10381,9 @@
 }, {
     "owner": "EL20202",
     "repo": "cc-c-edition",
+    "branches": {
+        "master": "46dfc3e53e6d483d0a8fa7c8e44f54d71ad68362"
+    },
     "manifests_by_commit": {
         "171f52ce9258f62f4a61b14b1a65a75b14854221": [{
             "path": "package.json",
@@ -10318,6 +10410,10 @@
 }, {
     "owner": "EL20202",
     "repo": "cc-uncapped-stats",
+    "branches": {
+        "dev": "3a48de66b1f921ac2fdee6656c922c5da8e0c915",
+        "master": "ef9e9953612c619707cd9a5ae4f66a25ad8f2dad"
+    },
     "manifests_by_commit": {
         "03625cd439e142fab7481674d1b204fb96da2b25": [{
             "path": "ccmod.json",
@@ -10484,6 +10580,9 @@
 }, {
     "owner": "prismskey",
     "repo": "CharSwap",
+    "branches": {
+        "master": "c21b9a7229a0c77d23904ccced96c51528caa37b"
+    },
     "manifests_by_commit": {
         "04f7fc03716af68f09289bb618323d4693580ffb": [{
             "path": "package.json",
@@ -10521,6 +10620,9 @@
 }, {
     "owner": "ZeikJT",
     "repo": "CrossCodeCheats",
+    "branches": {
+        "master": "1cea15af4606714ff90ddc525d8480018040198a"
+    },
     "manifests_by_commit": {
         "029eb90f281539179f0aadfce337ee5fe7e46d22": [{
             "path": "package.json",
@@ -10733,6 +10835,9 @@
 }, {
     "owner": "sgrunt",
     "repo": "cc-element-boss",
+    "branches": {
+        "master": "c0b5245ddce3ea686151bd6c14cd88a36aee7bc3"
+    },
     "manifests_by_commit": {
         "1a2462bff1955a84c9ce38c560e6281180ee98d1": [{
             "path": "cc-element-boss/package.json",
@@ -10768,6 +10873,9 @@
 }, {
     "owner": "sgrunt",
     "repo": "qine",
+    "branches": {
+        "master": "1bec2f3fdb580cd817c05b06db35172bd62b8550"
+    },
     "manifests_by_commit": {
         "095818bf5d0d94ba186086e230e75a5ea39da595": [{
             "path": "qine/package.json",
@@ -11103,6 +11211,9 @@
 }, {
     "owner": "ubergeek77",
     "repo": "CCExtraGamepadOptions",
+    "branches": {
+        "main": "dcabb9f76ff8da38a7fa62cd50adde0c002d539a"
+    },
     "manifests_by_commit": {
         "05ea2816ccecd6ebbfbc8204de136ff658cd757e": [],
         "56dd456c58d6fec314ede5591e0b0bace955bc08": [{
@@ -11125,6 +11236,9 @@
 }, {
     "owner": "Swanderrr",
     "repo": "CCleasitstitle",
+    "branches": {
+        "master": "82119a6b6221ba8e63017ec24b702bf872d3e763"
+    },
     "manifests_by_commit": {
         "0329410e92d5547f06d0d52fff9a15188db076d3": [{
             "path": "titlescreenlea/package.json",
@@ -11208,6 +11322,9 @@
 }, {
     "owner": "rioreur",
     "repo": "palicat",
+    "branches": {
+        "master": "de86c35314fdffb3b852ef7ef863af95927673ba"
+    },
     "manifests_by_commit": {
         "11a89ccb148ddbe6e661c81ee8a32160e0001cd4": [{
             "path": "package.json",
@@ -11339,6 +11456,10 @@
 }, {
     "owner": "Paradragon",
     "repo": "cc-extra-dialogue",
+    "branches": {
+        "feature/hub": "0e89510a2ee9b0cc7b4f49110096482bac13abac",
+        "main": "3b71e83a2ca06cd2b8e1db3d60c8f6e53788bceb"
+    },
     "manifests_by_commit": {
         "0463b8f810ef72d12c473b31f0e050643adf70d6": [{
             "path": "ccmod.json",
@@ -12350,6 +12471,9 @@
 }, {
     "owner": "dmitmel",
     "repo": "crosscode-tweak-pack",
+    "branches": {
+        "master": "8f1d5e2e724a671c310b36c577192c1c9bff31ee"
+    },
     "manifests_by_commit": {
         "0015c714d7c8e51caf30d1b506ceac6bb1269b2d": [{
             "path": "ccmod.json",
@@ -12496,6 +12620,9 @@
 }, {
     "owner": "dmitmel",
     "repo": "crosscode-readable-saves",
+    "branches": {
+        "master": "bc16ea673bf330b851df4feacfa867ffc1977e1d"
+    },
     "manifests_by_commit": {
         "203fb638c0ff5ea5cc616a795db079724c6bbd5f": [{
             "path": "package.json",
@@ -12591,6 +12718,9 @@
 }, {
     "owner": "dmitmel",
     "repo": "cc-world-map-overhaul",
+    "branches": {
+        "master": "f5a347d0bc34f78f698aeb957f2b033dd49e4ba7"
+    },
     "manifests_by_commit": {
         "0907888a429692b7dfe3ecd53b0d0e9795c055f9": [{
             "path": "package.json",
@@ -12771,6 +12901,9 @@
 }, {
     "owner": "Naxane",
     "repo": "CCInventorySearch",
+    "branches": {
+        "main": "c736c4b16b2020dc189c514f6572c8704602788c"
+    },
     "manifests_by_commit": {
         "3e9c409c6b361fdce4d1382ef6eef31f0899c79d": [{
             "path": "src/package.json",
@@ -12802,6 +12935,9 @@
 }, {
     "owner": "Inevitabilis",
     "repo": "CC-Junolea",
+    "branches": {
+        "main": "73684504468c229a5dce907bf8145d06b9a3a0a1"
+    },
     "manifests_by_commit": {
         "73684504468c229a5dce907bf8145d06b9a3a0a1": [{
             "path": "ccmod.json",
@@ -12813,6 +12949,10 @@
 }, {
     "owner": "Pyrocorvid",
     "repo": "CCNineRooms",
+    "branches": {
+        "main": "8b556ace17f48e9a37c15e86f6f777f5beab0bb3",
+        "v1.0.0": "702dc8d20ad248797cb2d08aba9da19a4e470e44"
+    },
     "manifests_by_commit": {
         "35efe073f5e04870b4cf263ad64a447fd43a6700": [{
             "path": "nine-rooms/ccmod.json",
@@ -12865,6 +13005,9 @@
 }, {
     "owner": "WatDuhHekBro",
     "repo": "cc-uwuifier",
+    "branches": {
+        "master": "994e3f421d3d7f7f3633d6a8c9534b10875ff884"
+    },
     "manifests_by_commit": {
         "1853bf451f468417b9be1852e6e86b5e387fcbdc": [{
             "path": "package.json",
@@ -12931,6 +13074,10 @@
 }, {
     "owner": "Hsifnus",
     "repo": "autumns-genesis",
+    "branches": {
+        "dependabot/npm_and_yarn/ini-1.3.8": "8e61326c182e1f42ab90a7b03bd130c26b8d059c",
+        "master": "f859c9f3dee35798d6b5c39fef448d6ce1b302e0"
+    },
     "manifests_by_commit": {
         "001e3ee38acc25feaa195903d44c4e37c74379e5": [{
             "path": "package.json",
@@ -15212,6 +15359,10 @@
 }, {
     "owner": "XenonA7",
     "repo": "xenons-triblader-mod",
+    "branches": {
+        "2-overlapping-pvp-enemy-healthbars": "0cbc1dae33fad314f0ef09b481232ec37d3e76bd",
+        "main": "52d9b96a7b4141fb242ba98b48fa0d25b776843e"
+    },
     "manifests_by_commit": {
         "0649083ea16abbe55a2d64b1964adfe86b1a9a76": [{
             "path": "ccmod.json",
@@ -15422,6 +15573,10 @@
 }, {
     "owner": "2hh8899",
     "repo": "ArcaneLab",
+    "branches": {
+        "dev": "0bca57b28c4a1f2eeceb8f856b83c0158be9588b",
+        "master": "ba96b33d3c4393d4d36fe3a0cb3998393e0d7b9e"
+    },
     "manifests_by_commit": {
         "01b5b8addd962ff1e81081bc44fbe1b5a37414f5": [{
             "path": "package.json",
@@ -15865,6 +16020,9 @@
 }, {
     "owner": "XenonA7",
     "repo": "cc-party-element-effects",
+    "branches": {
+        "main": "5a5900d038053a337fd686f948c5b544ef18c0b7"
+    },
     "manifests_by_commit": {
         "5a5900d038053a337fd686f948c5b544ef18c0b7": [{
             "path": "ccmod.json",
@@ -15880,6 +16038,9 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "char-select",
+    "branches": {
+        "master": "f1288353cc9639ca5e4786efed9617db9844de2a"
+    },
     "manifests_by_commit": {
         "0d6b41e77246c3ed30611865e2c24e1624e4e0c2": [{
             "path": "src/ccmod.json",
