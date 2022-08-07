@@ -38,5 +38,6 @@ if (containsDuplicate(trackList, duplicates)) {
 	console.log(duplicates.join("\n"));
 	process.exit(-1);
 }
+console.log("Looks all good!");
 process.exit(0);
 
