@@ -11,6 +11,21 @@ try {
 	process.exit(-1);
 }
 
+function isValueCorrect(arr, incorrect) {
+	for (let i = 0; i < arr.length; i++) {
+		const item = arr[i];
+		if (item.Owner == null || item.Owner == "") {
+			incorrect.push(`Entry ${i} has an invalid Owner`);
+		}
+
+		if(item.Name == null || item.Name == "") {
+			incorrect.push(`Entry ${i} has an invalid Name`);
+		}
+	}
+	return incorrect.length === 0;
+}
+
+
 function containsDuplicate(arr, duplicates) {
 	const unique = new Map;
 	for (const item of arr) {
@@ -38,6 +53,14 @@ if (containsDuplicate(trackList, duplicates)) {
 	console.log(duplicates.join("\n"));
 	process.exit(-1);
 }
+
+let incorrect = [];
+if (!isValueCorrect(trackList, incorrect)) {
+	console.log("There were issues with some entries...");
+	console.log(incorrect.join("\n"));
+	process.exit(-1);
+}
+
 console.log("Looks all good!");
 process.exit(0);
 
