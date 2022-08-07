@@ -1,4 +1,8 @@
-[
+[{
+        "Owner": "CCDirectLink",
+        "Name": "AMCS-wdeps"
+    },
+    {
         "Owner": "CCDirectLink",
         "Name": "AMCS-wdeps"
     },
