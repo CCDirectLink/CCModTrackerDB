@@ -1,193 +1,198 @@
 [{
-        "Owner": "2hh8899",
-        "Name": "ArcaneLab"
-    }, {
-        "Owner": "CCDirectLink",
-        "Name": "char-select"
-    }, {
-        "Owner": "XenonA7",
-        "Name": "xenons-triblader-mod"
-    }, {
-        "Owner": "XenonA7",
-        "Name": "cc-party-element-effects"
-    }, {
-        "Owner": "CCDirectLink",
-        "Name": "AMCS-wdeps"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "CCLoader",
-        "recursive": true
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "CCPresetRevival"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "CC-ChargedBalls"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "CCdiscord"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "kitplayer"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "CCNewGamePP"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "CCRestartButton"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "Blades"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "extendable-severed-heads"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "hardcoded-config-injector"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "item-api"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "CCJetpack"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "map-watch"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "menu-api"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "cc-menu-ui-replacement"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "mod-require-fix"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "CCSlowmotion"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "CCTimer"
-    },
-    {
-        "Owner": "CCDirectLink",
-        "Name": "CCTimeWalker"
-    },
-    {
-        "Owner": "L-Sherry",
-        "Name": "Bob-Rank"
-    },
-    {
-        "Owner": "L-Sherry",
-        "Name": "French-CC"
-    },
-    {
-        "Owner": "L-Sherry",
-        "Name": "Localize-me"
-    },
-    {
-        "Owner": "tylercamp",
-        "Name": "CCJoystickExt"
-    },
-    {
-        "Owner": "keanuplayz",
-        "Name": "CCRandomEvents"
-    },
-    {
-        "Owner": "keanuplayz",
-        "Name": "LeaTriblader"
-    },
-    {
-        "Owner": "EL20202",
-        "Name": "cc-capped-stats"
-    },
-    {
-        "Owner": "EL20202",
-        "Name": "cc-c-edition"
-    },
-    {
-        "Owner": "EL20202",
-        "Name": "cc-uncapped-stats"
-    },
-    {
-        "Owner": "prismskey",
-        "Name": "CharSwap"
-    },
-    {
-        "Owner": "ZeikJT",
-        "Name": "CrossCodeCheats"
-    },
-    {
-        "Owner": "sgrunt",
-        "Name": "cc-element-boss"
-    },
-    {
-        "Owner": "sgrunt",
-        "Name": "qine"
-    },
-    {
-        "Owner": "ubergeek77",
-        "Name": "CCExtraGamepadOptions"
-    },
-    {
-        "Owner": "Swanderrr",
-        "Name": "CCleasitstitle"
-    },
-    {
-        "Owner": "rioreur",
-        "Name": "palicat"
-    },
-    {
-        "Owner": "Paradragon",
-        "Name": "cc-extra-dialogue"
-    },
-    {
-        "Owner": "dmitmel",
-        "Name": "crosscode-tweak-pack"
-    },
-    {
-        "Owner": "dmitmel",
-        "Name": "crosscode-readable-saves"
-    },
-    {
-        "Owner": "dmitmel",
-        "Name": "cc-world-map-overhaul"
-    },
-    {
-        "Owner": "Naxane",
-        "Name": "CCInventorySearch"
-    },
-    {
-        "Owner": "Inevitabilis",
-        "Name": "CC-Junolea"
-    },
-    {
-        "Owner": "Pyrocorvid",
-        "Name": "CCNineRooms"
-    },
-    {
-        "Owner": "WatDuhHekBro",
-        "Name": "cc-uwuifier"
-    }, {
-        "Owner": "Hsifnus",
-        "Name": "autumns-genesis"
-    }
-]
+    "Owner": "2hh8899",
+    "Repo": "ArcaneLab",
+    "Id": "200629430"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "char-select",
+    "Id": "351902227"
+}, {
+    "Owner": "XenonA7",
+    "Repo": "xenons-triblader-mod",
+    "Id": "492637540"
+}, {
+    "Owner": "XenonA7",
+    "Repo": "cc-party-element-effects",
+    "Id": "500757993"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "AMCS-wdeps",
+    "Id": "252739263"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "CCLoader",
+    "recursive": true,
+    "Id": "67924209"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "CCPresetRevival",
+    "Id": "208461241"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "CC-ChargedBalls",
+    "Id": "240706108"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "CCdiscord",
+    "Id": "115290697"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "kitplayer",
+    "Id": "258584548"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "CCNewGamePP",
+    "Id": "208287616"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "CCRestartButton",
+    "Id": "168255749"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "Blades",
+    "Id": "231913576"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "extendable-severed-heads",
+    "Id": "199688222"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "hardcoded-config-injector",
+    "Id": "292542773"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "item-api",
+    "Id": "231111169"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "CCJetpack",
+    "Id": "80924949"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "map-watch",
+    "Id": "254647815"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "menu-api",
+    "Id": "231111117"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "cc-menu-ui-replacement",
+    "Id": "221941282"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "mod-require-fix",
+    "Id": "195833874"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "CCSlowmotion",
+    "Id": "73716035"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "CCTimer",
+    "Id": "71711327"
+}, {
+    "Owner": "CCDirectLink",
+    "Repo": "CCTimeWalker",
+    "Id": "77340806"
+}, {
+    "Owner": "L-Sherry",
+    "Repo": "Bob-Rank",
+    "Id": "241702623"
+}, {
+    "Owner": "L-Sherry",
+    "Repo": "French-CC",
+    "Id": "191443792"
+}, {
+    "Owner": "L-Sherry",
+    "Repo": "Localize-me",
+    "Id": "190447640"
+}, {
+    "Owner": "tylercamp",
+    "Repo": "CCJoystickExt",
+    "Id": "224957815"
+}, {
+    "Owner": "keanuplayz",
+    "Repo": "CCRandomEvents",
+    "Id": "209127801"
+}, {
+    "Owner": "keanuplayz",
+    "Repo": "LeaTriblader",
+    "Id": "213701871"
+}, {
+    "Owner": "EL20202",
+    "Repo": "cc-capped-stats",
+    "Id": "351842256"
+}, {
+    "Owner": "EL20202",
+    "Repo": "cc-c-edition",
+    "Id": "315470229"
+}, {
+    "Owner": "EL20202",
+    "Repo": "cc-uncapped-stats",
+    "Id": "345382554"
+}, {
+    "Owner": "prismskey",
+    "Repo": "CharSwap",
+    "Id": "219424227"
+}, {
+    "Owner": "ZeikJT",
+    "Repo": "CrossCodeCheats",
+    "Id": "236278291"
+}, {
+    "Owner": "sgrunt",
+    "Repo": "cc-element-boss",
+    "Id": "181215034"
+}, {
+    "Owner": "sgrunt",
+    "Repo": "qine",
+    "Id": "161566614"
+}, {
+    "Owner": "ubergeek77",
+    "Repo": "CCExtraGamepadOptions",
+    "Id": "312716578"
+}, {
+    "Owner": "Swanderrr",
+    "Repo": "CCleasitstitle",
+    "Id": "241745553"
+}, {
+    "Owner": "rioreur",
+    "Repo": "palicat",
+    "Id": "196059470"
+}, {
+    "Owner": "Paradragon",
+    "Repo": "cc-extra-dialogue",
+    "Id": "408348204"
+}, {
+    "Owner": "dmitmel",
+    "Repo": "crosscode-tweak-pack",
+    "Id": "376144789"
+}, {
+    "Owner": "dmitmel",
+    "Repo": "crosscode-readable-saves",
+    "Id": "258267423"
+}, {
+    "Owner": "dmitmel",
+    "Repo": "cc-world-map-overhaul",
+    "Id": "238559857"
+}, {
+    "Owner": "conorlawton",
+    "Repo": "CCInventorySearch",
+    "Id": "349739892"
+}, {
+    "Owner": "Inevitabilis",
+    "Repo": "CC-Junolea",
+    "Id": "393902093"
+}, {
+    "Owner": "Pyrocorvid",
+    "Repo": "CCNineRooms",
+    "Id": "410170035"
+}, {
+    "Owner": "WatDuhHekBro",
+    "Repo": "cc-uwuifier",
+    "Id": "237665377"
+}, {
+    "Owner": "Hsifnus",
+    "Repo": "autumns-genesis",
+    "Id": "234984698"
+}]

@@ -1,6 +1,7 @@
 [{
     "owner": "CCDirectLink",
     "repo": "AMCS-wdeps",
+    "id": "252739263",
     "branches": {
         "master": "72d9de29883dbe86ec496a03eedceb0a209b6fb5",
         "new-and-not-working-as-intended-branch": "3d48941ca46b6fd57c9d4d1f2e6ac7bf48867819"
@@ -136,6 +137,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCLoader",
+    "id": "67924209",
     "branches": {
         "master": "a56064b2a240792632379c6c9e591bb81905a932"
     },
@@ -5865,6 +5867,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCPresetRevival",
+    "id": "208461241",
     "branches": {
         "master": "71d06232e3b2193f87b72e221f506c4cc6aabd06"
     },
@@ -5950,6 +5953,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CC-ChargedBalls",
+    "id": "240706108",
     "branches": {
         "master": "de0fac614d1ac00b5cc8f43b77ff966969e7b52c"
     },
@@ -5974,6 +5978,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCdiscord",
+    "id": "115290697",
     "branches": {
         "dependabot/npm_and_yarn/node-fetch-2.6.7": "d5f22a53ce681da246fc41edc44b22035c497fb5",
         "master": "92ee5fac3962205da7ca56bc09c406469ddf7b5c"
@@ -6071,6 +6076,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "kitplayer",
+    "id": "258584548",
     "branches": {
         "master": "9605dd060661e0b2b3ee949ccf7393a25f691f88"
     },
@@ -6114,6 +6120,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCNewGamePP",
+    "id": "208287616",
     "branches": {
         "master": "b4da3d898dd6ea01c5af9c80b46d695045df064d"
     },
@@ -6217,6 +6224,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCRestartButton",
+    "id": "168255749",
     "branches": {
         "master": "5a21cfc280a0827f8d9e5da0b4b4fa8071a4f4f4"
     },
@@ -6311,6 +6319,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "Blades",
+    "id": "231913576",
     "branches": {
         "add-license-1": "cb1211507d0ac51380112ababa096fc2ac30ccbf",
         "master": "cd3675ca7c14df1e728e95aa5e3bb58976fa36b0"
@@ -6333,6 +6342,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "extendable-severed-heads",
+    "id": "199688222",
     "branches": {
         "master": "9603504f57f123fbe06053eca0c9ec291b53173b"
     },
@@ -6372,6 +6382,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "hardcoded-config-injector",
+    "id": "292542773",
     "branches": {
         "master": "4885a11e41668ebb28fdccd1e9a0ac124b1d092e"
     },
@@ -6431,6 +6442,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "item-api",
+    "id": "231111169",
     "branches": {
         "master": "3add3cc4059fd16d4a29e224e1cdcf5fc52cfed3"
     },
@@ -6600,6 +6612,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCJetpack",
+    "id": "80924949",
     "branches": {
         "master": "a87457af288a7963ee2ccddabd287e50e3cb4641"
     },
@@ -6665,6 +6678,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "map-watch",
+    "id": "254647815",
     "branches": {
         "master": "cb66bbada0573d79623c7d988142f988c39a4f5e"
     },
@@ -6693,6 +6707,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "menu-api",
+    "id": "231111117",
     "branches": {
         "master": "8ffb89bb7d1d2acd3d2801a640b7e0110bbd2001"
     },
@@ -6707,6 +6722,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "cc-menu-ui-replacement",
+    "id": "221941282",
     "branches": {
         "master": "e180dac89f0ba3418e78d5706eb63e823cc98a35"
     },
@@ -6876,6 +6892,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "mod-require-fix",
+    "id": "195833874",
     "branches": {
         "master": "1864ba25a8c45c0b626c3d18b2c9ce93fd62db0a"
     },
@@ -6907,6 +6924,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCSlowmotion",
+    "id": "73716035",
     "branches": {
         "master": "e7d696a7af389cbe38e6250d7ba4786d9b2ce20c"
     },
@@ -6952,6 +6970,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCTimer",
+    "id": "71711327",
     "branches": {
         "master": "40ae9eac7e58cb5e5167b0656592cf2acd6f52e4"
     },
@@ -7132,6 +7151,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "CCTimeWalker",
+    "id": "77340806",
     "branches": {
         "master": "d2e33b8feb6c4ae67b42ba1fd91127a4d3b939cd"
     },
@@ -7160,6 +7180,7 @@
 }, {
     "owner": "L-Sherry",
     "repo": "Bob-Rank",
+    "id": "241702623",
     "branches": {
         "main": "120e7eab2e891771408632d3eea422635936f740"
     },
@@ -7975,6 +7996,7 @@
 }, {
     "owner": "L-Sherry",
     "repo": "French-CC",
+    "id": "191443792",
     "branches": {
         "master": "a8d720a7e85fc0837d52c783577c5eec79671051"
     },
@@ -9553,6 +9575,7 @@
 }, {
     "owner": "L-Sherry",
     "repo": "Localize-me",
+    "id": "190447640",
     "branches": {
         "master": "9d0ff32abde457997ff58c35f20864d37ac8b2bf",
         "v1.x": "cd84932c815297c6777fafcf4e5fcfbc0d3d6cc3"
@@ -9989,6 +10012,7 @@
 }, {
     "owner": "tylercamp",
     "repo": "CCJoystickExt",
+    "id": "224957815",
     "branches": {
         "master": "1efdd55e4982d3af6379d3a3a8f8f0b5a58cd737"
     },
@@ -10012,6 +10036,7 @@
 }, {
     "owner": "keanuplayz",
     "repo": "CCRandomEvents",
+    "id": "209127801",
     "branches": {
         "dev": "b90d882dee8f79ce5e2e98eebba54a20f9340f90",
         "images": "1e5129b8004f16bcfa9cdca9ed1bcbc324ba3f61",
@@ -10319,6 +10344,7 @@
 }, {
     "owner": "keanuplayz",
     "repo": "LeaTriblader",
+    "id": "213701871",
     "branches": {
         "master": "e167413f6c7748691a40e4748fe352888ad5d5af"
     },
@@ -10348,6 +10374,7 @@
 }, {
     "owner": "EL20202",
     "repo": "cc-capped-stats",
+    "id": "351842256",
     "branches": {
         "master": "c1366e366b59623434e8cf4acd35e3e767344c03"
     },
@@ -10381,6 +10408,7 @@
 }, {
     "owner": "EL20202",
     "repo": "cc-c-edition",
+    "id": "315470229",
     "branches": {
         "master": "46dfc3e53e6d483d0a8fa7c8e44f54d71ad68362"
     },
@@ -10410,6 +10438,7 @@
 }, {
     "owner": "EL20202",
     "repo": "cc-uncapped-stats",
+    "id": "345382554",
     "branches": {
         "dev": "3a48de66b1f921ac2fdee6656c922c5da8e0c915",
         "master": "ef9e9953612c619707cd9a5ae4f66a25ad8f2dad"
@@ -10580,6 +10609,7 @@
 }, {
     "owner": "prismskey",
     "repo": "CharSwap",
+    "id": "219424227",
     "branches": {
         "master": "c21b9a7229a0c77d23904ccced96c51528caa37b"
     },
@@ -10620,6 +10650,7 @@
 }, {
     "owner": "ZeikJT",
     "repo": "CrossCodeCheats",
+    "id": "236278291",
     "branches": {
         "master": "1cea15af4606714ff90ddc525d8480018040198a"
     },
@@ -10835,6 +10866,7 @@
 }, {
     "owner": "sgrunt",
     "repo": "cc-element-boss",
+    "id": "181215034",
     "branches": {
         "master": "c0b5245ddce3ea686151bd6c14cd88a36aee7bc3"
     },
@@ -10873,6 +10905,7 @@
 }, {
     "owner": "sgrunt",
     "repo": "qine",
+    "id": "161566614",
     "branches": {
         "master": "1bec2f3fdb580cd817c05b06db35172bd62b8550"
     },
@@ -11211,6 +11244,7 @@
 }, {
     "owner": "ubergeek77",
     "repo": "CCExtraGamepadOptions",
+    "id": "312716578",
     "branches": {
         "main": "dcabb9f76ff8da38a7fa62cd50adde0c002d539a"
     },
@@ -11236,6 +11270,7 @@
 }, {
     "owner": "Swanderrr",
     "repo": "CCleasitstitle",
+    "id": "241745553",
     "branches": {
         "master": "82119a6b6221ba8e63017ec24b702bf872d3e763"
     },
@@ -11322,6 +11357,7 @@
 }, {
     "owner": "rioreur",
     "repo": "palicat",
+    "id": "196059470",
     "branches": {
         "master": "de86c35314fdffb3b852ef7ef863af95927673ba"
     },
@@ -11456,6 +11492,7 @@
 }, {
     "owner": "Paradragon",
     "repo": "cc-extra-dialogue",
+    "id": "408348204",
     "branches": {
         "feature/hub": "0e89510a2ee9b0cc7b4f49110096482bac13abac",
         "main": "3b71e83a2ca06cd2b8e1db3d60c8f6e53788bceb"
@@ -12471,6 +12508,7 @@
 }, {
     "owner": "dmitmel",
     "repo": "crosscode-tweak-pack",
+    "id": "376144789",
     "branches": {
         "master": "8f1d5e2e724a671c310b36c577192c1c9bff31ee"
     },
@@ -12620,6 +12658,7 @@
 }, {
     "owner": "dmitmel",
     "repo": "crosscode-readable-saves",
+    "id": "258267423",
     "branches": {
         "master": "bc16ea673bf330b851df4feacfa867ffc1977e1d"
     },
@@ -12718,6 +12757,7 @@
 }, {
     "owner": "dmitmel",
     "repo": "cc-world-map-overhaul",
+    "id": "238559857",
     "branches": {
         "master": "f5a347d0bc34f78f698aeb957f2b033dd49e4ba7"
     },
@@ -12899,12 +12939,174 @@
         }]
     }
 }, {
-    "owner": "Naxane",
-    "repo": "CCInventorySearch",
+    "owner": "2hh8899",
+    "repo": "ArcaneLab",
+    "id": "200629430",
     "branches": {
-        "main": "c736c4b16b2020dc189c514f6572c8704602788c"
+        "dev": "0bca57b28c4a1f2eeceb8f856b83c0158be9588b",
+        "master": "ba96b33d3c4393d4d36fe3a0cb3998393e0d7b9e"
     },
     "manifests_by_commit": {
+        "01b5b8addd962ff1e81081bc44fbe1b5a37414f5": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "045f4a4f1c2bccd3ace1f2ed88e5e9b0050615c0": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "048aa1d865be03e735b7262159688ccda0fbb806": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.3"
+        }],
+        "06d584ac6b040847031fce9df08676f92f302d6f": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.1"
+        }],
+        "07bb520fcd6bc51ea27d2f6a8cdd71c321f7dc03": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "088b9ac9cd18b4320e8c1cda4308cc1c3e16054b": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "091254933c50235aec359db5cc7d53272fbd28c5": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "0bca57b28c4a1f2eeceb8f856b83c0158be9588b": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.7"
+        }],
+        "0d23a78f6db413709f6f223b782b98468712b69d": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "0eabf8ebaac1e298a2240a9e8f46924b49807385": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "13087330d8db850f9d9ef3071fa91180154117a9": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.0"
+        }],
+        "16b2c8c2e934552871e166e63ae168ea0ef29bc0": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "176dde7bbc694d52dcbdd6f56c0cca3c257f77ad": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "192a1464082ce6081bec190b0e7df3495c88bc58": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "1b5c3f57fa64589ccd5b48579353f233b39e26de": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "1d0f5a178dcd7ca96b5157b6592bd0a4d928b3e0": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "1d1d931893bb9edec7687a429b0361742ab316c3": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "1efce38549da60c4084351f5e2df5f8de48867ae": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "1f1a938363c6927c68bde5180089452e2b37bae5": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "2053ebc523c22707887f557162677cb0da374b74": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "20bfb4d40c94d8d99df1b54e5d17379c58a48955": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "2712d979fd8593a0a8d2f5211749b436e71b511f": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "295910eae162c1c4d9d18f4475fb55f719edc5da": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "29923c8617d61fce33eee3d11596b02670fcd76b": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.4"
+        }],
+        "2b081c44c0eede5cc637558aaf3c60848b054b61": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "2d62c972252fa89f6113d2438cd82b90d7972e6e": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "2f5d7c41502aa86d4f207d4a6a3ec2034ed1508f": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.1"
+        }],
+        "32eb31d0556ce7d32814699d71b226061d62d372": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "33887ba27a5f0e526552f1fffb105e41bf08e5ee": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "3397cb7cfa3a8d688e7f1c2ef29cc95e6ac80df5": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "35493e191e490dde28ceb18b7ecf8928bbcd566c": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "38f5645aa1d1d2ec495ff4a966ed5b29fc1ff96f": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
         "3e9c409c6b361fdce4d1382ef6eef31f0899c79d": [{
             "path": "src/package.json",
             "id": "inventory-search",
@@ -12915,26 +13117,305 @@
             "id": "inventory-search",
             "version": "0.0.1"
         }],
+        "42cbc527dd69390282d2b24192729f2af31f37ab": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.7"
+        }],
+        "453c23cd9053351d47f1eecad417c1cdbb947fa3": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.7"
+        }],
+        "478a873871acd5d10c73973cd0b025b083b656b7": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
         "49a94d086f76af83f485894dc6cd74dcba940a9d": [{
             "path": "src/package.json",
             "id": "inventory-search",
             "version": "1.0.0"
+        }],
+        "4b616b505a0d98c1cf7bee6a614c6f8205cef617": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "5529403492901193f20cf8307362abba6ed9d99e": [],
+        "59b2507294b378ac94e5c80cd017bb9f1ef0a9dd": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "6b5db55a2da221d9cff32b0f9c119a34b80bced1": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "710a67dc368f3d97d54326596b87dd33b75e04c4": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.3"
+        }],
+        "7144dfe24a96d63eb4feddd0f924ef29cd6981d8": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.0"
+        }],
+        "75c60334a03c94cfdace6b76038b5e1a4323cba0": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "76cfbd6561c9c9cad93a0c0efac8d23339c39bdb": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "79ece2b2f4ea64a2f240839db40da26cb5f4cd1f": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "7e7b9c19cdba5d8e9feb00a818fa481a8c4b88fa": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "7edf2e6823acbb35422885c35b67c8ce3e144324": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.6"
+        }],
+        "826e80c12a6edbe6132059cd7fad8d2f429db4f6": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "89f2aaef45df41794251102b0fc8143488daf6d8": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "8b1667a5388f135b3a54872bb4d7b9f9bf8da4dc": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "8d82e2b8b23dc89a075f17e6b0dd063296aa2ccf": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
         }],
         "8e53239a0fa21b162e1875353fe648fef57ee74e": [{
             "path": "src/package.json",
             "id": "inventory-search",
             "version": "1.0.0"
         }],
+        "90b795e636e511c3dacef919948f9a21f6b8b96d": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.0"
+        }],
+        "9126f9246117f186233046b329e2ad3d868eb98f": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "92a63b5e87081929cd6f8600a64264fd282dbe9c": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "95cefe4181b506a9accbd500c02b66cab6e602c0": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "998bbfc1f1b5703550fa19bb7e234c2a9bcb0376": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "9a01352b98cda3ff946a3bd2518da7d90f61f8f0": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "9ded604a4484991aee974da79bcc8c97dd2fd113": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "a3a3c1c67731f205514945268da04e50aa3205a4": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "a9867a8cd53587366beda6c8138e1b42b096d08f": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "a9e1f1e16c06d5a58bdb303a652cb9f9caffe765": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "aa72eb4cb645942f8dc3b9b3b4b0efa91fcdff8d": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "ad1940c5d24913d9a7478fb8bea05d997bf83209": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "add93b22953fb5624efda2e935d30ba6047d600d": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "b45e86f33bfd55bd61d80349cd59619273830004": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "b515539c3f6f6bae3b78f24d401b00e095ceebe3": [],
+        "ba96b33d3c4393d4d36fe3a0cb3998393e0d7b9e": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.1"
+        }],
+        "bb4b19396ab5d6447ffa7e8dc86ff6647aeae887": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
         "be205f41033c7ea119f0d59d3a94a4b5b8ab9361": [],
+        "bfd77de6d2d439555d0540d6e29afa72efa5823f": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "c15b6529daa4823c98abed9a1d901ebcee63accb": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "c17f5f02d13fd77cdd92d553984625c3160d8ba8": [{
+            "path": "package.json",
+            "id": "\\c[3]Arcane Lab\\c[0]",
+            "version": "0.1.1"
+        }],
+        "c5aead6fd7ef4070d90a08b3a189b9c0c5841936": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
         "c736c4b16b2020dc189c514f6572c8704602788c": [{
             "path": "src/package.json",
             "id": "inventory-search",
             "version": "1.0.0"
+        }],
+        "c832091d3f815c745998ae4659c2e9979512333b": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "d14b768e23894a78d2e05919c8c0787be07c8abc": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "d25c45d5fd0108846d96d9e9ee1dae83bc98be39": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "d3d14622a41da660facebeccc25dad4a476dfb5a": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.5"
+        }],
+        "d66ecbb72403c038bc156000631f299cb225c15d": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "d9ebb100f1c1c8dc3d67b63156effeecd9848ee7": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.3"
+        }],
+        "db176ac3f5ee577eea7ed928e7fc2d09f0230c56": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "df0dde4b5090f52ab749476eaefca7c84ddc89e5": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "e855b24b6944a9b2db388b349bb6dbab38128759": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "ed3de07cabb12d859b13dbca2f8894eaa302bd4c": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "ed50703e98072da073696f10f9671f49f40da63a": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "edbc275224b7c84c50d475e466c25e0f7b5f3957": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "efa3ad835a1069eb4109f98d2146f8a1739d90b7": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.7"
+        }],
+        "f03a46a3f511bcec134237b451653aea05674b6d": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "f11653da13626b45e39793817d81510be8e1e184": [{
+            "path": "package.json",
+            "id": "arcane-labs",
+            "version": "0.1.4"
+        }],
+        "f53a0a7276a6fac58b454cf43eaab41cfc5e50cd": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.4"
+        }],
+        "f7cfb05104f27086704c298b9a819455904b19ba": [{
+            "path": "package.json",
+            "id": "Arcane Lab",
+            "version": "Pre0.0.1a"
+        }],
+        "f9ac97cfa00c4fc55f1c287adb013d319f6737af": [],
+        "f9b8b78c903208d39108533bf4d21c7621f85c05": [{
+            "path": "package.json",
+            "id": "\\c[1]Arcane \\c[3]Lab\\c[0]",
+            "version": "0.1.3"
         }]
     }
 }, {
     "owner": "Inevitabilis",
     "repo": "CC-Junolea",
+    "id": "393902093",
     "branches": {
         "main": "73684504468c229a5dce907bf8145d06b9a3a0a1"
     },
@@ -12949,6 +13430,7 @@
 }, {
     "owner": "Pyrocorvid",
     "repo": "CCNineRooms",
+    "id": "410170035",
     "branches": {
         "main": "8b556ace17f48e9a37c15e86f6f777f5beab0bb3",
         "v1.0.0": "702dc8d20ad248797cb2d08aba9da19a4e470e44"
@@ -13005,6 +13487,7 @@
 }, {
     "owner": "WatDuhHekBro",
     "repo": "cc-uwuifier",
+    "id": "237665377",
     "branches": {
         "master": "994e3f421d3d7f7f3633d6a8c9534b10875ff884"
     },
@@ -13074,6 +13557,7 @@
 }, {
     "owner": "Hsifnus",
     "repo": "autumns-genesis",
+    "id": "234984698",
     "branches": {
         "dependabot/npm_and_yarn/ini-1.3.8": "8e61326c182e1f42ab90a7b03bd130c26b8d059c",
         "master": "f859c9f3dee35798d6b5c39fef448d6ce1b302e0"
@@ -15359,6 +15843,7 @@
 }, {
     "owner": "XenonA7",
     "repo": "xenons-triblader-mod",
+    "id": "492637540",
     "branches": {
         "2-overlapping-pvp-enemy-healthbars": "0cbc1dae33fad314f0ef09b481232ec37d3e76bd",
         "main": "52d9b96a7b4141fb242ba98b48fa0d25b776843e"
@@ -15573,6 +16058,7 @@
 }, {
     "owner": "2hh8899",
     "repo": "ArcaneLab",
+    "id": "200629430",
     "branches": {
         "dev": "0bca57b28c4a1f2eeceb8f856b83c0158be9588b",
         "master": "ba96b33d3c4393d4d36fe3a0cb3998393e0d7b9e"
@@ -16020,6 +16506,7 @@
 }, {
     "owner": "XenonA7",
     "repo": "cc-party-element-effects",
+    "id": "500757993",
     "branches": {
         "main": "5a5900d038053a337fd686f948c5b544ef18c0b7"
     },
@@ -16038,6 +16525,7 @@
 }, {
     "owner": "CCDirectLink",
     "repo": "char-select",
+    "id": "351902227",
     "branches": {
         "master": "f1288353cc9639ca5e4786efed9617db9844de2a"
     },
@@ -16112,6 +16600,41 @@
             "path": "src/ccmod.json",
             "id": "cc-char-select",
             "version": "0.0.1"
+        }]
+    }
+}, {
+    "owner": "conorlawton",
+    "repo": "CCInventorySearch",
+    "id": "349739892",
+    "branches": {
+        "main": "c736c4b16b2020dc189c514f6572c8704602788c"
+    },
+    "manifests_by_commit": {
+        "3e9c409c6b361fdce4d1382ef6eef31f0899c79d": [{
+            "path": "src/package.json",
+            "id": "inventory-search",
+            "version": "0.0.1"
+        }],
+        "41bc1a1c006cd89a0401b6a8a12473a08f7eda19": [{
+            "path": "src/package.json",
+            "id": "inventory-search",
+            "version": "0.0.1"
+        }],
+        "49a94d086f76af83f485894dc6cd74dcba940a9d": [{
+            "path": "src/package.json",
+            "id": "inventory-search",
+            "version": "1.0.0"
+        }],
+        "8e53239a0fa21b162e1875353fe648fef57ee74e": [{
+            "path": "src/package.json",
+            "id": "inventory-search",
+            "version": "1.0.0"
+        }],
+        "be205f41033c7ea119f0d59d3a94a4b5b8ab9361": [],
+        "c736c4b16b2020dc189c514f6572c8704602788c": [{
+            "path": "src/package.json",
+            "id": "inventory-search",
+            "version": "1.0.0"
         }]
     }
 }]
