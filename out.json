@@ -15862,4 +15862,19 @@
             "version": "0.1.3"
         }]
     }
+}, {
+    "owner": "XenonA7",
+    "repo": "cc-party-element-effects",
+    "manifests_by_commit": {
+        "5a5900d038053a337fd686f948c5b544ef18c0b7": [{
+            "path": "ccmod.json",
+            "id": "party-element-effects",
+            "version": "1.0.0"
+        }],
+        "66145a828a86942833c820fdf6ee9adc4887b53e": [{
+            "path": "ccmod.json",
+            "id": "party-element-effects",
+            "version": "1.0.0"
+        }]
+    }
 }]
