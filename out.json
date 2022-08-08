@@ -908,6 +908,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "006dec88650b80b537b69b9d045cb8743e68b1b8": [{
             "path": "package.json",
@@ -917,16 +925,36 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.3"
         }],
         "007c9443236e8a7590bf37052ca071c50b9747a4": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "02be5c9d5b7e216fab14ab0f896c81272f3e5776": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "03b8c224c618b77eb0fde6e73bc5c746a592c245": [{
             "path": "package.json",
@@ -936,6 +964,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "03c26f1c0dbf26841f86561ca94df9b69e414dab": [{
             "path": "package.json",
@@ -945,6 +981,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "048a58473e9d606933a8f1565c9dba34909c314b": [{
             "path": "package.json",
@@ -955,6 +999,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "05924382d9085c2c4d41a504d283c2362e2eb24d": [{
             "path": "package.json",
@@ -969,6 +1021,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "0608b9365259c30c7fc5f0df176596fd9434bcfe": [{
             "path": "package.json",
@@ -978,11 +1038,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "07cb4adbfba9d708da74709540349ddd70698b91": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "08c7a02ea7aa18d3fd4c595e51009e9bde8dd0ac": [{
             "path": "package.json",
@@ -993,16 +1069,36 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "0aa97b8ec55e89c870f16d2e6fdd15888c79d06c": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.0"
         }],
         "0afb8eb7bd98760fd81bd2fbd3eeaaebd4b3fb41": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "0beb368f60066827961b324269d30eb7f6c04206": [{
             "path": "package.json",
@@ -1017,6 +1113,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "0daa48f05ba0df51ab71faf0a29a7b17275ca9b5": [{
             "path": "package.json",
@@ -1041,6 +1145,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "105fa011e4cb0822f185ca6243e521522dd4e7ab": [{
             "path": "package.json",
@@ -1050,16 +1162,40 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "11f78cf00182c1b3393a26bdc03df041f4634eb9": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "12d6707b5b30fa59442c9d910a03d37891f5f9f8": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "13612ace3592ae5b6f47335ca2cf598bb064bf4c": [{
             "path": "package.json",
@@ -1070,6 +1206,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "1409a65089fe4aa77f0f5c686b6f6cfb2b678a38": [{
             "path": "package.json",
@@ -1079,11 +1223,23 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "1468972e885262e0bf917f1e6ee19c71b3b4eb37": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "1503a63165ae4dc267cd8ca41fda4fb62095c359": [{
             "path": "package.json",
@@ -1099,6 +1255,10 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "16775a7872fa37034395834d924c82533e95d776": [{
             "path": "package.json",
@@ -1108,26 +1268,66 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "16c3c48afc8877418ff1cd53115210098636987c": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "16e706bf3a7ecd2c8c0e84abb918a2669fa3b388": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "18a359ac8f76c51d5d8512f8d03107fb09c883b1": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "190800ab7821abc20bc42ef96b16aea123594e8d": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "195b887393c4f06f1ab353c1bdc90627c6f8b245": [{
             "path": "package.json",
@@ -1137,16 +1337,40 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "1a4f4384aefdf91d7b6d7ebafac2685038e7876f": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "1b43603474648627bb53e08b80d672c6d132d306": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "1ba7af63f9c438994e1d35eb7d159972359e060c": [{
             "path": "package.json",
@@ -1156,6 +1380,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "1c62d3a0a18283bcf15bc688c1de6645dc26e6b8": [{
             "path": "package.json",
@@ -1165,11 +1397,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "1d73e3c1c0b5322f2a4f829dbb905c8b30a2213b": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "1e1b3db51d52aa6a82e4223cc9ede918764fe55b": [{
             "path": "package.json",
@@ -1179,6 +1427,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "1e6152b6614b026adda1ac6c3118485ce8879c61": [],
         "1f07426ad7fd665a6fa48019e3138e8e6f53ab49": [{
@@ -1189,11 +1445,23 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "1fb8d680a28bed454630d37d639e9ece5b9326ef": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.0"
         }],
         "2119f455905a45f7715a087295a71f623b298e84": [{
             "path": "package.json",
@@ -1213,11 +1481,23 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "23331adda540c369a77475a3919c88a4aeb988ea": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "23730c9780995f09e171c681d6d68f25f36cbaa6": [{
             "path": "package.json",
@@ -1227,11 +1507,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "23baf9966b2f25d314246ce650e1aa7ec5a44dfe": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.0"
         }],
         "249f278f6cd5ba7d5a95bb312128981765ab9fa8": [{
             "path": "package.json",
@@ -1247,11 +1543,23 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "266e6854c06aa579ada9839317322a7468de7899": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "26af65ae6e5ecd024ca5f16580fdd51860c83372": [{
             "path": "package.json",
@@ -1266,6 +1574,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "271dcf11078b6a57bc619956f5bf7254b8ac81e4": [{
             "path": "package.json",
@@ -1276,6 +1592,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "289a2390d5705b1054a16ec83e563519395084c7": [{
             "path": "package.json",
@@ -1285,21 +1609,53 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "28cdc677aed6ab0f0c0a00164f7f961819f77863": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "2a002a06374ce51ee5323eaa0633610b8d770ea0": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "2a21997ae380d046d026c450a5fe267fdae8518d": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "2aad7cb61c0e0a8e615c0f933253ca968f8b271f": [{
             "path": "package.json",
@@ -1309,6 +1665,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "2ab4f961eea2c41dd70adf15b489a9bec3e74fa5": [{
             "path": "package.json",
@@ -1318,6 +1682,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "2ab84912262790e6ddc235139d033018262f135d": [{
             "path": "package.json",
@@ -1328,6 +1700,10 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "2ad5c4a78a3299b89c95098688762780d19bc898": [{
             "path": "package.json",
@@ -1342,6 +1718,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.3"
         }],
         "2b4c6e32678317a40849d6fcbd90163007e5d9e1": [{
             "path": "package.json",
@@ -1351,11 +1735,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "2b70875e131cc53eff5d8a7537874a04f3e144c4": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.2"
         }],
         "2cf57fd959263c7ce18224e9d9883d77268f86e1": [{
             "path": "package.json",
@@ -1365,16 +1765,40 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "2dc1f4f9efb1fc78d410e684b6734966b8921c61": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "2dec426c437a6877b7eea19120051dd550385aa5": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.7.0"
         }],
         "2e3a274bd4fdf66293f180f73b89c6f0e3ca59de": [{
             "path": "package.json",
@@ -1384,11 +1808,23 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "2f1ab28c8b18854ebbe22a8123b0fbe03ade0e56": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "2fdaea8aed60fea6222d6dbf92cf48b3c2d40a30": [{
             "path": "package.json",
@@ -1399,6 +1835,10 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "309358195cdfa92ebfe4a04610d53e7dbd53e9d0": [{
             "path": "package.json",
@@ -1414,6 +1854,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "312af91cf306553c005f4f853db577ee797cd356": [{
             "path": "package.json",
@@ -1423,6 +1871,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "3157a4925c29f7a6cfdebf74901496105209a121": [{
             "path": "package.json",
@@ -1433,11 +1889,27 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "32818d726bc43b720e6081208923b7d1df354c09": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.2"
         }],
         "348660b5129ef6f1c065cd1f286cb3cf324ff8e1": [{
             "path": "package.json",
@@ -1447,6 +1919,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "35290d1cc3937c2575e40f6cf68e305c6f63a6e7": [{
             "path": "package.json",
@@ -1456,6 +1936,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "357ca522088da5ac479bae6834697e927ce08866": [{
             "path": "package.json",
@@ -1465,11 +1953,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "359ca1d5c27f41207f1ec8f379434d7c16ad858d": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "3680755ad23b713dbb90c2552031d155d31c540d": [{
             "path": "package.json",
@@ -1479,6 +1983,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "378e6612aa75f21e34d36e71dd3b6a2b0d200197": [{
             "path": "package.json",
@@ -1488,6 +2000,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "37ee4999597a09a4e0fd7edc60b6717e11b3535d": [{
             "path": "package.json",
@@ -1497,36 +2017,88 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "38003ebb99de4d9103cd88f7c2d03512eb73f2c2": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "391b20f85e6b514569f301fa9a0822a7f445f337": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "39ad5e4980bd20b80c11806413db197c9222063a": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.5.0"
         }],
         "39c803759d4f84738087f7a3ec98fc5f31e95eb6": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "3a149fa807dcab6c94064a77ad5883cba907c3d7": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.5.0"
         }],
         "3aa34a337bc8cd922d75aadf0011465ce2349a09": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.4"
         }],
         "3b1da17241314f6965be0e7055d07cc55cf2f06e": [{
             "path": "package.json",
@@ -1536,6 +2108,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "3c13799b2d51cfbd4b987d818dfb158452a4e4a0": [{
             "path": "package.json",
@@ -1551,11 +2131,23 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "3ce872e58709f3f5a80d81de8043f87adf66a5a6": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "3d3fa17ff038aa1623aa6968d0ed2d08c120f186": [{
             "path": "package.json",
@@ -1565,11 +2157,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "3d9c6f8f1a562d47584f94b921299afe67ebf7c4": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "3e2d8bc086fb40ee8799ce37e66fe73a819ebd02": [{
             "path": "package.json",
@@ -1579,6 +2187,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "3e3eebe12a3f56c6e3d342bd421951ee0f424973": [{
             "path": "package.json",
@@ -1588,6 +2204,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "3ea0307cb5545e88ccac3a985629d5c005981908": [{
             "path": "package.json",
@@ -1597,16 +2221,36 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.0"
         }],
         "3eb9e74aeada103900693fe8777eabf100a00eac": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "3ee218fdda61c424584f2b6e6401d12b8742acf3": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "3f5aa208b5b26e2393f862de650a01d4c6f51220": [{
             "path": "package.json",
@@ -1616,16 +2260,36 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "3f8a3202ba012406bfbb2f4b1aee260b56454a50": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.4"
         }],
         "3f926f41129a0b36875a2a4b8dc8a294026b11ed": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "408d48f79e09ee137097275341203586f131e9a2": [{
             "path": "package.json",
@@ -1636,6 +2300,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.5.0"
         }],
         "431aa86124b0f3b7c81eee3c60f3bf0243c77df3": [{
             "path": "package.json",
@@ -1645,6 +2317,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "4366053d3d1b820e25efbeb7770be25a51c6c461": [{
             "path": "package.json",
@@ -1654,11 +2334,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "4367a32bce2548dfae098b326095c49f63ec12f1": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "44ff988c5eb1bc7690fb3eeabb749eade908a550": [{
             "path": "package.json",
@@ -1668,6 +2364,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "4537fd9f6f8607cbbdc3f8cbd7766fcd9f97cb8c": [{
             "path": "package.json",
@@ -1677,6 +2381,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "45be81bd938b06149a388559ed15ac6d944c4407": [{
             "path": "package.json",
@@ -1687,11 +2399,19 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "4665e218ee0b8684d012f539ca7c60631f06e66d": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.4"
         }],
         "46940e1a0d77873d399e73a1be1602067d1c0c0e": [{
             "path": "package.json",
@@ -1707,6 +2427,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.5.0"
         }],
         "481f00699cba4cce1d3f3c9712e804081a592e94": [{
             "path": "package.json",
@@ -1716,11 +2444,23 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "487f736ca71c615ec889f27b210989ee412517be": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.1.0"
         }],
         "489747e14af26c86ea18189e97075f5da5a94589": [{
             "path": "package.json",
@@ -1731,11 +2471,27 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "495049fef5aef00177934797e715716f28da84aa": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "49f17333aec452a2f9b3aad77bc49efbd139cc10": [{
             "path": "package.json",
@@ -1745,16 +2501,40 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "4b53dfbc8f9954a34476e7caaa396ca9ae6a260d": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.0"
         }],
         "4b62d114f97fc9235d241fc6490473eee73bc12f": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "4b856d433e5daafe80c26473d4d0f6a02893be33": [{
             "path": "package.json",
@@ -1764,16 +2544,36 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "4be2ccff6c2717a14de30be97082d8ef3266ddb2": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "4c0d82b1df16b33120745411020c637947e91c80": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "4c50299a1e79c9cd9dcc59f5914fe79c52f6e881": [{
             "path": "package.json",
@@ -1783,61 +2583,145 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "4e5acc08f319a33e68af1ff82b7dbd2e28a57c38": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "4ed4b08242631a3719973afcd6c21338e8c5b5c4": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.4.1"
         }],
         "504d2ccc537f86f3fcb8242b93505e0e5334780c": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.4.2"
         }],
         "505a83fe9d086e092501bd61f7a8ef7390d31940": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "505f688cd489dd9075632c1bb495e2f4ab8d4c17": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.4"
         }],
         "50e62543e90260f1617013717fa60aded1986c86": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "51c3fd285e960c41cd4d282a9a469355ebbcca6a": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "5201243d2d563c128280e3bed1e0c9e2537452d7": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "52ec29588b9f3a12aa86b9f67e5dfb828a0df870": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.5"
         }],
         "533d8a3f167af348490aaca1777d408b367409b0": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.4"
         }],
         "5360249fce9b2bd55e16fdb307a5a7f034676232": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "5377d708ba3ad29f50d313ba5ba3fc8311447f98": [{
             "path": "package.json",
@@ -1847,6 +2731,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "5450a62538eaec2d2c7c9a51236a316b1175d6b4": [{
             "path": "package.json",
@@ -1856,6 +2748,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "546cc59b9d939cef1ebc104f7b2bfec6e7ea8594": [{
             "path": "package.json",
@@ -1866,6 +2766,10 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "54df723e47d06dc3c83509830463260eb7c60fbd": [{
             "path": "package.json",
@@ -1880,6 +2784,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "5541da408ab910a08c70681fc51edb2c10619802": [{
             "path": "package.json",
@@ -1890,11 +2802,23 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.5"
         }],
         "562fa4ccc19bc7552ded3a65cf50a3c6055ce5a7": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "5702d9cc41548dfb0410fa7e4cfd7134b570b5c2": [{
             "path": "package.json",
@@ -1910,11 +2834,23 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "578555cc01a196acc7268632149ad6c77caaead7": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "590747ffedc0601f446a5fd3ae41625bbe06b76e": [{
             "path": "package.json",
@@ -1924,11 +2860,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "5986e51221fa553998a3aeb209a9f6f1f325d43c": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "59b18160a71cbaf64b716fc713519accf236dbf6": [{
             "path": "package.json",
@@ -1938,11 +2890,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "5a810a28b26ba9d11e2561b963dc899247787a31": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "5a8c6426bf8c87a98aa94d2283f03ac46dcdd3ac": [{
             "path": "package.json",
@@ -1953,6 +2921,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "5bcf72921539d00767b2d0875ccf3baadcd39798": [{
             "path": "package.json",
@@ -1972,16 +2948,36 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "5c84bd1fd9213dec608be6a975bddcb0bf278087": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "5cbdcb03ca0a96ff10f4b5f47d50c7804dbbcde8": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "5d4d301170ef438782d942d605380d141794c064": [{
             "path": "package.json",
@@ -1991,6 +2987,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "5d7bedcba776b6c58f6420d84716b9d784c99365": [{
             "path": "package.json",
@@ -2000,6 +3004,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "5e19baa85a236bf85900941f249f77fa08bb11c3": [{
             "path": "package.json",
@@ -2009,11 +3021,23 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "5e478391b6fbcf647f0bf480dafc5c9285c0f064": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "5f36e3009f4147d3a45cfa392b1eafc60ffe235d": [{
             "path": "package.json",
@@ -2023,6 +3047,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "5fe717265784361d0d50ad415a43c5f56efd16eb": [{
             "path": "package.json",
@@ -2032,6 +3064,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "5feb2987f2232cd4493c03442c0d4b32b945cff6": [{
             "path": "package.json",
@@ -2046,6 +3086,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "60ebd6c65abba52c50a631b1695309280329e707": [{
             "path": "package.json",
@@ -2056,26 +3104,62 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "61f3c32c975f370e6bb6bf1599679c50604bcd0f": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.1"
         }],
         "627e31a54376cc2248521a4f4bac20e4a0d36762": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "628426f783d25ffb32e3b858146c3cdf1a75f993": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.0"
         }],
         "64a8223976d3195ee4d09446b7b91dad97f0d9dd": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.4.0"
         }],
         "657ace4c79e4be2d72376035c6b41b2a3496c677": [{
             "path": "package.json",
@@ -2085,16 +3169,40 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "68777e0ce79de8fef83f72fbf57bf5164bb550b9": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "6961a0c05b2da1b33e356d3180dedd55e1e0bd02": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.1"
         }],
         "6a4112b8f114e9f2ee4a36b1ef355f661a9e7f72": [{
             "path": "package.json",
@@ -2109,21 +3217,49 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "6aaa3cfa34546818b87cf92c4d9bd1e1e067c9ed": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "6ac0da352f297588ba86e466d12e39af7a184e96": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "6bec244fdec1f6a6a949079d290d5964cabaa194": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "6c32aee93f7b0635537b06ad4612096ebe187fec": [{
             "path": "package.json",
@@ -2138,6 +3274,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.4"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "6cbe1d9919ba920cf3b4ea366fe525109697bf34": [{
             "path": "package.json",
@@ -2147,6 +3291,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "6cd469edccb8a0b06dfdbc23a68c5c6a89826d75": [{
             "path": "package.json",
@@ -2161,11 +3313,23 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "6eb4210ceedb236e36dc7c546244c9e3b72c5f3a": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.4"
         }],
         "6f84beac18b1cfc165675d56deb22ca814c799d7": [{
             "path": "package.json",
@@ -2180,6 +3344,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "7093382eb2122060416c252f6aeb2ca73a62bac2": [{
             "path": "package.json",
@@ -2189,16 +3361,36 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "7167d44ea237300591184ad49aa341de5d3207ec": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "718dd8e919ba6d97dfd33d977e1e4b40d471b3d2": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "71f5dc4b4047286c3d4d998f51eab6961914e166": [{
             "path": "package.json",
@@ -2208,6 +3400,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "72a57ea58e5d26a802888894add20a5a28f150b4": [{
             "path": "package.json",
@@ -2217,6 +3417,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "73e50e5343f49a33aef1f5d0743b7637459b0f92": [{
             "path": "package.json",
@@ -2231,6 +3439,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "7591b7b651cad583c2b1ff81675bceae72af0947": [{
             "path": "package.json",
@@ -2240,21 +3456,49 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.4"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "7591ee1994463b15c9671dff362711833b50a9c6": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "75a82c656634ae4323eb1fc17a8e33e40fd368a6": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "7654685dfa31f17d1d5fb20624dda1a79c30a35e": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "767a0ba8c1e4bfff49a856b414abf4c2e61166be": [{
             "path": "package.json",
@@ -2270,11 +3514,27 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "77f53c57d3ca51f94dc94d202ae28ad6850d222a": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "78110c77532ff345b1f5d384bc32ce78cefa5c7b": [{
             "path": "package.json",
@@ -2284,6 +3544,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "7872f7015d3f00740832a5ab413447f84fa5f69a": [{
             "path": "package.json",
@@ -2293,11 +3561,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.5"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "79f19eec0cb4d91d787f39b3355e53e3c896c706": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.4.2"
         }],
         "7a2e7298b2ceeb8f5ecb2e1e045bdcf1c5d3487d": [{
             "path": "package.json",
@@ -2308,6 +3592,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "7b7f3fecbaca392f961938acd40a118e3085c553": [{
             "path": "package.json",
@@ -2317,11 +3609,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "7c5f3be3a5a819f301a4f5fce443d385396be73d": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "7cd8ee98ad57f6ddf6c015e17ef4a7cc08a9ee3f": [{
             "path": "package.json",
@@ -2331,11 +3639,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "7d7a189e9fc372d3c6dd18c3855715780cbdf018": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.0"
         }],
         "7e603a6bef3d74f9b0d9453da528e24e2e7c5a31": [{
             "path": "package.json",
@@ -2350,6 +3674,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "7eec4938dc3a54e5b49d72fc7a43572b6f612424": [{
             "path": "package.json",
@@ -2359,6 +3691,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "7f4f1bc37234e26973d4425722f617a7be896064": [{
             "path": "package.json",
@@ -2368,6 +3708,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "7f8d04c64da452fbdb5081e9dcced95a607332ec": [{
             "path": "package.json",
@@ -2377,6 +3725,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "7f9616c82084ab58d55f65d47f9c29c18242ff79": [{
             "path": "package.json",
@@ -2387,6 +3743,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "807d7d3efa5b6e99e3e9708535c604451d5243ee": [{
             "path": "package.json",
@@ -2396,16 +3760,40 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "80aaca5e7ac971987524081ca3acf3c2d747323c": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.5.0"
         }],
         "8128e62d8656a0028cb7f1a327f03c8bd4b723a1": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "818b693fb7d45ee0c793cde3e805b0bc510f2d8f": [{
             "path": "package.json",
@@ -2420,6 +3808,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "82f7a5656e4452db829cdb2c531cfa9c7c66a3a6": [{
             "path": "package.json",
@@ -2429,6 +3825,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "83d8ddbec61d31caba1009c283b6e61fef81149e": [{
             "path": "package.json",
@@ -2443,6 +3847,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "84540abd8edae867bfcb8e40459f99d85924f609": [{
             "path": "package.json",
@@ -2453,16 +3865,32 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.5"
         }],
         "86d78281fddda93e71d3fc9ccaea71f558e416dd": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.4"
         }],
         "8715e10407f2541b7deb4079c2bfebbfada18dff": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "873d960a3c8022679f9fe30be83bdbead7260ecf": [{
             "path": "package.json",
@@ -2473,11 +3901,27 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "88e4d4c0927a9cb6e960ee14d0702c7c2a2844d6": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "88ea8a27d25a4c39918ff185735fe9f8e1fb6bd5": [{
             "path": "package.json",
@@ -2487,16 +3931,40 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "88ff14af36b621ad4284e5423fac8903ebd7febf": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "896639c95c57dc2d661902071c20ad1b670f2394": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "89b0d445fc8d8c1319728f0156b2bb151526b639": [{
             "path": "package.json",
@@ -2506,11 +3974,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "8a6ed6eefbf5965e4a06cfa6a172f2aa7dd17277": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "8a9814d97a78cd48344e31c6afc75e4add1e1ecb": [{
             "path": "package.json",
@@ -2521,16 +4005,36 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.4.0"
         }],
         "8b9491b7ac4f2a068f232e0cd526f6efe438914b": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.3"
         }],
         "8c11f10897ce5e87a1bda39b6c8c71ecf058e552": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "8c663e956e4a72cfcba8a3b034691c59b79a4b3c": [{
             "path": "package.json",
@@ -2540,6 +4044,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "8cf2f6f08d02a858df66eba53d209baa650aed20": [{
             "path": "package.json",
@@ -2549,16 +4061,36 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "8d9317bf89267332b734fa661e4695b7ba610bbb": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "8df1dca96c42b44921cf2d258572c80733d76282": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "8e241a18c52a77e91d0d8ebc7f4c0671bcceb7cf": [{
             "path": "package.json",
@@ -2568,6 +4100,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "8e3ef3989b15655e446a3016516b434d75239994": [{
             "path": "package.json",
@@ -2577,11 +4117,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "8e50ed0157f3fc8d748d2f4d4974c757e2a04e64": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.0"
         }],
         "913dc46a3a69ae614b48625e260f4fedf6974b66": [{
             "path": "package.json",
@@ -2592,6 +4148,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "91975d241d7234a2c254423e361a58a1288edc5c": [{
             "path": "package.json",
@@ -2601,11 +4165,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "926d6a724208d06be6458fe625ed37c929115f6a": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "931f3f4f6504abbb42e8e93cc026b58e2b413f2f": [{
             "path": "package.json",
@@ -2615,36 +4195,88 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "934947b551ae19332da7a72251c6aa0db245c4a4": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.1"
         }],
         "9383c94637c904d3510cd4fe84c5ef52a28229f6": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "945523a3269c511439a1bb87ab475a4c6e11880d": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.2"
         }],
         "9456c2f25a86c3679bc493857c6f9f45636100f9": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.5.0"
         }],
         "94a462dfad70c3d13b8df6f0fe76cd30c4df4131": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "94ea11e2c818b55d694a23ca5263c17a58aa28ab": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "9588c7abb9df7d2aa12be5dd81f48a22ede3748e": [{
             "path": "package.json",
@@ -2659,11 +4291,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.0"
         }],
         "96b14d6547b823a19875d2500bad6d402e67dff2": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "97005294b02b41434734d8930ae2e4d82f271655": [{
             "path": "package.json",
@@ -2673,16 +4321,36 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "972d2828d94502e3eba265329ecebfae3066694f": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.1"
         }],
         "973bd4cc5088974fc0661bcc881ac46596eb30c4": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "97429daa395956866ec982d53a7a370f98d2cbae": [{
             "path": "package.json",
@@ -2692,6 +4360,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.3"
         }],
         "97de451a013bd0488019107e595ce81111d3748b": [{
             "path": "package.json",
@@ -2702,6 +4378,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.5.0"
         }],
         "9829f564fec0e73db9cba2ae392192a2a219fa00": [{
             "path": "package.json",
@@ -2711,21 +4395,49 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.0"
         }],
         "9923b9e711a30867fa6ca259840790acb8d2c963": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.5"
         }],
         "9a7ef2a6b4fb8689771609fe7956c9c9b367e7e8": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "9a97a3845cf7c17ac72984ef68ce32876f4f0b98": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "9b7436ee2bb5d7a9685171ab08620e2d897c4358": [{
             "path": "package.json",
@@ -2735,6 +4447,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "9c2c487423d2fa610d3734df4867db1c9b691001": [{
             "path": "package.json",
@@ -2744,6 +4464,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "9c91ecbd90ac9d5d9e772e2730c643d821b9c719": [{
             "path": "package.json",
@@ -2753,6 +4481,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "9ce738021a7442457d8ef3ffd920b63117717ea9": [{
             "path": "package.json",
@@ -2762,6 +4498,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "9cfba32525e33d73e3230a343c351caf69bfddf7": [{
             "path": "package.json",
@@ -2771,6 +4515,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "9d350dedbc1be106549764105f7454fcc50d93a9": [{
             "path": "package.json",
@@ -2780,6 +4532,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "9f0aa22b55fdf4860255571e5a98814e19907d9c": [{
             "path": "package.json",
@@ -2794,6 +4554,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.5"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "9fd9da2648e6780315e1b213421bdb0ffd373f22": [{
             "path": "package.json",
@@ -2803,46 +4571,106 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "a1689f9cd3e2c60744a93d8d576167c7a98fe78c": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.5.0"
         }],
         "a28ecd05a8550553c92e27b42ca725116e0c9bfe": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "a28f7020ff2451c78110cb902a424db8b9a2d59b": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "a2f12e8b84ff0aa058a9f3e613b7af57663b6947": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "a2fcd29393f4659287c908f325487af6c858d8d4": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "a34ffe017513837f34c70c3405e47413680f25a0": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "a3e65d92e044ad2958bf65a5f2d0dee686ab99c5": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "a41f92ce81a4036f92e6177260d95332c7cb5cf8": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "a45ecd749bd7db22114324fa3a31208d4876eaf6": [{
             "path": "package.json",
@@ -2853,6 +4681,10 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.0"
         }],
         "a4bb25d9640c636cdb2a06ef41935b724889e81b": [{
             "path": "package.json",
@@ -2862,11 +4694,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "a4ea728e3089d81aedb23643132ca913317b3c0f": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.1"
         }],
         "a56064b2a240792632379c6c9e591bb81905a932": [{
             "path": "package.json",
@@ -2876,11 +4724,23 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.22.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.12.0"
         }],
         "a60a319948c0d39b2ec95799d9351940c0b1b62a": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "a6cb2a720c485c902027492f3b2c24605781d0c2": [{
             "path": "package.json",
@@ -2890,11 +4750,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.3"
         }],
         "a7a2b33496e83e48e06d30c4f2920490092f1e5f": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "a963556f374f335477a25d8fda4136a6ead8a988": [{
             "path": "package.json",
@@ -2904,6 +4780,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "a98d07dad794e8d3b54e68601fc5df9355d2960e": [{
             "path": "package.json",
@@ -2913,11 +4797,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "abb9eb2cfc3015de710374bc1888e66c589b41f5": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "ac0d835148a88e27e413813effbc67e49363dd95": [{
             "path": "package.json",
@@ -2932,41 +4832,101 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "ae61245ce0d3e1769c32fcdbb3558f054d98f828": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.1"
         }],
         "af81e12dbe290a11616f0cbde2b0113de9538de4": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "af95c916326be167ba001d354d369e86c3d4aff4": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "afcb94b606cde092ca7500aa972f2678b3a87db7": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "b0e71a3d12a572f29b6b7d7a0e17af714b6330ea": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "b177fe88f684d3c47add10c5427552d6e2028567": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "b22fc7f9b0d0b025f05c80e1efd6b535384fdf8a": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "b293c90004f11077b7b537690575222319762c14": [{
             "path": "package.json",
@@ -2976,6 +4936,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "b2fcc2bcfe42bcd3adc31a7a81008b52371e43d8": [{
             "path": "package.json",
@@ -2986,6 +4954,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "b448049f3d1cdcb6655069b04f0ac14d2549721a": [{
             "path": "package.json",
@@ -2995,11 +4971,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "b470071583cf1efb0633a13eae1123eda938abfc": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "b48b54aecdcd129f70f73bd84629ce1d614f6a05": [{
             "path": "package.json",
@@ -3009,6 +5001,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "b54580708c1c16bb59d5ced59986353900738dd4": [{
             "path": "package.json",
@@ -3018,6 +5018,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "b5e152ce034125790e82ecf717427a5f225385ea": [{
             "path": "package.json",
@@ -3037,16 +5045,40 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "b7823338a04c605eebc021dfbc7d2f6749e42ccb": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "b7934c77ab999a8bed9f1981539497070bbf1c76": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "b808a9db4a9500282ff4e2ede7637237d0a4c075": [{
             "path": "package.json",
@@ -3062,6 +5094,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.1"
         }],
         "ba56eb42f264898aa749c396edc7a334c1ee9648": [{
             "path": "package.json",
@@ -3072,6 +5112,10 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.0"
         }],
         "baa7e3649caa619722ba3fa0668ba25b9c486f3e": [{
             "path": "package.json",
@@ -3081,6 +5125,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "babe5f819bbbfc674d0885ff07f024a193d4a945": [{
             "path": "package.json",
@@ -3090,6 +5142,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.4"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "baf8b3066dd259cc087484818e719100eb8bae63": [{
             "path": "package.json",
@@ -3109,11 +5169,23 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "bc82d45e5195ef5ab2cb5fcb3e20f61d801ac210": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "bc84424c1efdbcfd1eb111f814a16f54a5612027": [{
             "path": "package.json",
@@ -3123,6 +5195,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "bc94929978ac9e329782b1cc947b06d5ac29111e": [{
             "path": "package.json",
@@ -3132,6 +5212,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "bd17fc0e3b14ae24b43a86aff69db7fc37dee760": [{
             "path": "package.json",
@@ -3141,21 +5229,45 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "bd8651317354a9b5fe196c9e47bf43164bd65cc1": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "bdcca0614c2c40a4e5b2d2fca0509a32711dc654": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "be266f65702ca66317e644e6ba9c63ff80fe456d": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "be3d10034d3b386e7a4e763dae0786db54bcbc9a": [{
             "path": "package.json",
@@ -3165,26 +5277,62 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "be74eee13a8da216263f2313681363fadbe4a711": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.0"
         }],
         "c0f8443ddd12b053c2547485e1b6c4f94dcee811": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "c1297fae160658412fe882c19b843a586e159c30": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.4.1"
         }],
         "c2e242d2ef1c2fa700f73d3ec4ad7f407b5eceaa": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "c39b51fe63231ba28e68afa6c30752748743df9c": [{
             "path": "package.json",
@@ -3199,16 +5347,40 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "c4cb0242e44fd5eaff107eb05a1fd35f692ab733": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "c4dd94be127585712bdfdb883782d9e5c837eab6": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "c500dca0297ff09cd9ed6321befb4f230ca1c95d": [{
             "path": "package.json",
@@ -3218,11 +5390,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "c5111ed9385f7f2163fb46d17952b639ad1212ab": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "c668746f61f5f353a2da0af323dc27608a1e5a35": [{
             "path": "package.json",
@@ -3232,26 +5420,62 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "c6b1755b92ae0ea7a4455483410cbf69e561b0a1": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.4.0"
         }],
         "c7f1da6401011759796f547e1ae5cbd51bcd6b84": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "c89b199220a716616341665c963ebf1d19cd46d5": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "c91dec85372b749485b35fe365e927e9f110e4ec": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.1.0"
         }],
         "c94060c9ba3847c92b13542943203a296a44195e": [{
             "path": "package.json",
@@ -3262,6 +5486,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "cc3dd54a0306b4a621c2fb69a1dbeeeacbf792f0": [{
             "path": "package.json",
@@ -3271,6 +5503,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.3"
         }],
         "cc6dc181c0799f78c6108c8ebc33839514435da9": [{
             "path": "package.json",
@@ -3280,6 +5520,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "ccab788204d83fb402d492dcea5a33a2e64504fd": [{
             "path": "package.json",
@@ -3289,6 +5537,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "ccd8f6f283a0cdfa2d1b4e2e86f840e2edbe9fd8": [{
             "path": "package.json",
@@ -3298,6 +5554,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "cce8b4615462dd94ea5f796f223ca339dfa2dc08": [{
             "path": "package.json",
@@ -3307,21 +5571,49 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "cd65a42cd324b4fa312951d0d8e458f7efef3773": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "cd89d585450dd71f9961e8b48212e1928373b5b2": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "cd9dfaa276562cfe35f6ddba413312b00693b7f0": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "ce0b25b5ae33ba3597830ed7f4a2cc067e66deb4": [{
             "path": "package.json",
@@ -3332,6 +5624,14 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "ce4a96b961d6ab5802f0728afe3c6dc1caa27c8c": [{
             "path": "package.json",
@@ -3341,6 +5641,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "ceb0cb27aa697d60467ac1c34fde25d48ea18eb7": [{
             "path": "package.json",
@@ -3355,11 +5663,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.3"
         }],
         "cf9ce1a4ac34fe9d2701f994218878d7238e005f": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "d00f498b8ed262528fc944e61a2fbb6fcdd5e9b3": [{
             "path": "package.json",
@@ -3369,6 +5693,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "d118fb4ca6f83c5811be356b096c71b567efe7af": [{
             "path": "package.json",
@@ -3378,11 +5710,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "d1409d8e8fb3fbb1b3ccd40d7b9a45f26dd3c068": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "d1671b837d1b1404eb010b6d2e721a7b06ecccfc": [{
             "path": "package.json",
@@ -3393,6 +5741,10 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "d348be19d9db8e920b9f9d6e2aaad7007e0804ba": [{
             "path": "package.json",
@@ -3402,11 +5754,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.0"
         }],
         "d520ae00d99e423ea1ec9a32eb695308ce0c333a": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.2"
         }],
         "d68489cc969ba1cfbf2e78f757f95fe6e733e35e": [{
             "path": "package.json",
@@ -3417,6 +5785,10 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "d772a5c8c54af71345fc738d8732934ba5fb2e33": [{
             "path": "package.json",
@@ -3426,6 +5798,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "d77fa82e6c33ce9e75ec80e01c076317b3e83ab4": [{
             "path": "package.json",
@@ -3435,6 +5815,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "d7bc6e1fe2bd9a175e6f13457bb5f48e616210fe": [{
             "path": "package.json",
@@ -3444,6 +5832,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "da4257666093c0455b5a7add45042d69c8dbf462": [{
             "path": "package.json",
@@ -3453,6 +5849,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "da4f2598ae5f730fe42d753b04b9990c2bf8e6c5": [{
             "path": "package.json",
@@ -3467,6 +5871,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.0"
         }],
         "dc5ba295fa575107e14c9b497b291a1654d5f1be": [{
             "path": "package.json",
@@ -3476,11 +5888,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "dd668ec9157f2d59923d2d3856b6712db046cd4e": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "de2b3dd8f3755c991f5cd14698b6041b2f738883": [{
             "path": "package.json",
@@ -3490,6 +5918,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "de4f2b3bb2b605e69332f81bd9001ba45626b022": [{
             "path": "package.json",
@@ -3499,6 +5935,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.5"
         }],
         "df6d6438587c6459248c69eb2305eaeac6206eba": [{
             "path": "package.json",
@@ -3508,11 +5952,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "df77bd8cf85964e431dcd006e4b45354ee9a26e5": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "e013cc946a0bf7aea69ef69daf166b60b3ca654e": [{
             "path": "package.json",
@@ -3522,16 +5982,40 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "e02849ad866556754585882d81709b7dd5e4d015": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.1"
         }],
         "e0c63b8ed62cef4228c12c028056aeb2bff5c414": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "e0ea68011b39f4feba716b6a95ef52c8e0ad1309": [{
             "path": "package.json",
@@ -3541,11 +6025,23 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "e11112f2c89982d16b07bdfce10c389858be49ea": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.1.0"
         }],
         "e1e0a4d422fab6c152020d8f82ef138165dc7127": [{
             "path": "package.json",
@@ -3555,6 +6051,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "e2222be40eed07f8bdd92500339acdf8b4835519": [{
             "path": "package.json",
@@ -3564,6 +6068,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "e23ae4763b054de00777723f405a695d419677e7": [{
             "path": "package.json",
@@ -3574,21 +6086,49 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "e3b31d3be9af1d5c8a59bcd39d381f906a6d386a": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.5.0"
         }],
         "e443fe652ae2a7288444f4fe6dbd7a9e655f259d": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.3"
         }],
         "e5310277286348252a22314210ba2f156f53c287": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.1"
         }],
         "e5d3f42a0136ea09b11ff8f2235fd3281ff1113f": [{
             "path": "package.json",
@@ -3603,6 +6143,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.2"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "e755db0d34a0098e677ee904217b9f9ee7042e0c": [{
             "path": "package.json",
@@ -3612,6 +6160,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "e9c0cb03fd4fd8a2704f610a94b364be2390db37": [{
             "path": "package.json",
@@ -3622,11 +6178,23 @@
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.4.2"
         }],
         "ea546a9ebfdbd3e047c047708ce21e38d1b3c72b": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.4"
         }],
         "ead983aad4635ee9fda88bedb1fcc7dfaf082263": [{
             "path": "package.json",
@@ -3646,6 +6214,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "ec499093ef9bf9eeed9e7de1efafc05d018fd0b1": [{
             "path": "package.json",
@@ -3660,11 +6236,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "ed054b84ac784f406248e28c416bf609b6cdfa2c": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.4.0"
         }],
         "ed297b52594921cbb3cb531122562abb5cc11939": [{
             "path": "package.json",
@@ -3679,6 +6271,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "ede7cefad113bccb54fff465d22c4261bac2ae26": [{
             "path": "package.json",
@@ -3688,31 +6288,71 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }],
         "ee3cad06a08d67e6bb27bb204543c72c93f7fbe0": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.4.1"
         }],
         "eeeab1816871ba2d7fbf2ce708ad83181f5b11e0": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "ef3ab0b58b0ca5fdb5086a4c482fe46fcd515491": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "efef4fbbdf6f40040b26f45936570e6d1965f96b": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.0.2"
         }],
         "f051aa55ba06b8c8398769b0727f4d3ae62937d1": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "f2d586b2948fef91ddf68b499f9701791bb1637d": [{
             "path": "package.json",
@@ -3722,6 +6362,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "f3b3f604c519eafcd4ed205ef22de41104f1a629": [{
             "path": "package.json",
@@ -3731,26 +6379,66 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.16.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "f3fd512906570704ac9ab248c0fbb5b60dee2749": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.1"
         }],
         "f538404d26f24f90d1a5fd67d9d9cbe7daedb3d2": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "f67367a8b09e7d48c5137d1c081a3340e70ebca3": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.0"
         }],
         "f7823cfc938edd864c252e9871142d7505c7c301": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.2.1"
         }],
         "f82cc11b81a64ad55cd593eb5cdb49493a45cece": [{
             "path": "package.json",
@@ -3760,11 +6448,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "f832404e8b96a73a8a023fb7cf2857bdc7d85cb8": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.6.0"
         }],
         "f8ae58615db95f9dadaf2f9f8bcb12efa198d97c": [{
             "path": "package.json",
@@ -3774,6 +6478,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "fa69519e231fba33e5cb983009ac382a67e13db3": [{
             "path": "package.json",
@@ -3783,6 +6495,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.19.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.9.0"
         }],
         "fab7f42643a32cbc14427ac7c39010d6c1365a36": [{
             "path": "package.json",
@@ -3792,6 +6512,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "faf75219c18d31ef3a5eb963142c72a9a44dead0": [{
             "path": "package.json",
@@ -3801,6 +6529,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.17.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "fc459b80586de6d41ed0052357598a2e78856cad": [{
             "path": "package.json",
@@ -3810,6 +6546,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.21.0"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.11.0"
         }],
         "fdfb9685b5340b8366bc014b2c62b1425a6d3bda": [{
             "path": "package.json",
@@ -3819,11 +6563,27 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.15.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.2"
         }],
         "fe7dc3aef9ae69a0c1fd754f06b33b8909780545": [{
             "path": "package.json",
             "id": "CrossCode",
             "version": "0.2.3"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.0.0"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.3.1"
         }],
         "fe8022159eb1b22c3c54fb9d2cdfbb27003ee32f": [{
             "path": "package.json",
@@ -3833,6 +6593,14 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.18.1"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.1"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.8.4"
         }],
         "feade20f67c35348a02d1f96d2a566664df1566e": [{
             "path": "package.json",
@@ -3847,8 +6615,17 @@
             "path": "ccloader/package.json",
             "id": "ccloader",
             "version": "2.20.2"
+        }, {
+            "path": "assets/mods/ccloader-version-display/package.json",
+            "id": "CCLoader display version",
+            "version": "1.1.3"
+        }, {
+            "path": "assets/mods/simplify/package.json",
+            "id": "Simplify",
+            "version": "2.10.1"
         }]
-    }
+    },
+    "recursive": true
 }, {
     "owner": "CCDirectLink",
     "repo": "CCPresetRevival",
