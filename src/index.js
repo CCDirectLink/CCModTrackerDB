@@ -18,8 +18,12 @@ function isValueCorrect(arr, incorrect) {
 			incorrect.push(`Entry ${i} has an invalid Owner`);
 		}
 
-		if(item.Name == null || item.Name == "") {
-			incorrect.push(`Entry ${i} has an invalid Name`);
+		if(item.Repo == null || item.Repo == "") {
+			incorrect.push(`Entry ${i} has an invalid Repo`);
+		}
+	
+		if(item.Id == null || item.Id == "") {
+			incorrect.push(`Entry ${i} has an invalid Id`);
 		}
 	}
 	return incorrect.length === 0;
@@ -29,7 +33,7 @@ function isValueCorrect(arr, incorrect) {
 function containsDuplicate(arr, duplicates) {
 	const unique = new Map;
 	for (const item of arr) {
-		const key = `${item.Owner}/${item.Name}`;
+		const key = `${item.Owner}/${item.Repo}`;
 		if (!unique.has(key)) {
 			unique.set(key, 1)
 		} else {
